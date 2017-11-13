@@ -1,0 +1,963 @@
+[10-15 09:59:59 3873099 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:00:00 3873348 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 668,  get allot ips : 140.205.192.184:80,106.11.78.189:443,140.205.41.82:80,140.205.41.135:443,140.205.47.26:80
+[10-15 10:00:00 3873348 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:00:01 3874534 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::HandleExchangeKey, 896, 
+[10-15 10:00:01 3874534 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnected, 787, 
+[10-15 10:00:01 3874612 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthImpl, 392, currState = 3, sessionid: 6490
+[10-15 10:00:02 3875486 4408 3824 WARNING] imsdk CIMServiceMgr::Init, 67, Function End
+[10-15 10:00:02 3875486 4408 3824 WARNING] imsdk CIMStorageMgr::Init, 86, Function End
+[10-15 10:00:02 3875486 4408 3824 WARNING] imsdk imbizmgr.cpp(72) CIMBizMgr::Init, Biz Init. (imsdk_version). ##1#{ [2.6.10_IMSDK] }##
+[10-15 10:00:02 3875486 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(89) CIMLoginBiz::Login, 
+[10-15 10:00:02 3875486 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(135) CIMLoginBiz::DoPreLoginTask, 
+[10-15 10:00:02 3875486 4408 3824 WARNING] imsdk CIMServiceMgr::PreUserInit, 86, cntaobao打死你我也不相信
+[10-15 10:00:02 3875486 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(56) CIMNetChannelImp::DestroyVConnect,  sessionid: -1, cntaobao打死你我也不相信. m_numState = 2;
+[10-15 10:00:02 3875486 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = -1.
+[10-15 10:00:02 3875486 4408 3824 WARNING] imsdk CIMStorageMgr::PreUserInit, 133, [cntaobao打死你我也不相信]
+[10-15 10:00:02 3875486 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 4, sessionId = -1.
+[10-15 10:00:02 3875579 4408 3824 WARNING] imsdk CIMServiceMgr::ServicePreInit, 108, [cntaobao打死你我也不相信]callback all finished!
+[10-15 10:00:02 3875579 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(158) CIMLoginBiz::DoServiceLoginTask,  wait for callback
+[10-15 10:00:02 3875579 4408 3824 WARNING] imsdk CIMStorageMgr::OnInitCallback, 101,  wait for callback
+[10-15 10:00:02 3875579 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(161) CIMLoginBiz::DoServiceLoginTask,  callback all finished!
+[10-15 10:00:02 3875579 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(166) CIMLoginBiz::DoServiceLoginImp, 
+[10-15 10:00:02 3875579 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginservice.cpp(269) CIMLoginService::DoLoginTask, 
+[10-15 10:00:02 3875579 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(124) CIMNetChannelImp::CreateVConnect,  Start tcms. m_numState = 1;
+[10-15 10:00:02 3875579 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(43) CIMNetChannelImp::NotifySend,  Cache package, cntaobao打死你我也不相信;
+[10-15 10:00:02 3875579 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(46) CIMNetChannelImp::NotifySend,  connecting, sessionid: 6491, cntaobao打死你我也不相信;
+[10-15 10:00:02 3875579 4408 3824 WARNING] imsdk CIMStorageMgr::OnInitCallback, 96,  callback all finished!
+[10-15 10:00:02 3875579 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 1, state=1
+[10-15 10:00:02 3875579 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(157) CIMNetChannelImp::OnConnectStatus,  OnConnect state ok, m_numState = 1;
+[10-15 10:00:02 3875579 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(165) CIMNetChannelImp::OnConnectStatus,  Create VConn sessionid: 6491, m_numState = 1;
+[10-15 10:00:02 3875579 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(43) CIMNetChannelImp::NotifySend,  Cache package, cntaobao打死你我也不相信;
+[10-15 10:00:02 3875579 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(46) CIMNetChannelImp::NotifySend,  connecting, sessionid: 6491, cntaobao打死你我也不相信;
+[10-15 10:00:02 3875954 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(188) CIMNetChannelImp::OnVConnectStatus,  cntaobao打死你我也不相信. m_curState = 1, state=1, sessionid: 6491
+[10-15 10:00:02 3875954 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(205) CIMNetChannelImp::OnVConnectStatus,  OnVConnect state OK, m_curtState = 1;
+[10-15 10:00:03 3876406 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(191) CIMLoginBiz::OnLoginOk, 
+[10-15 10:00:03 3876406 4408 3824 WARNING] imsdk CIMStorageMgr::UserInit, 160, [cntaobao打死你我也不相信]
+[10-15 10:00:03 3876406 4408 5420 WARNING] imsdk CIMStorageMgr::OnInitDBLib, 298,  wait for callback
+[10-15 10:00:03 3876406 4408 5428 WARNING] imsdk CIMStorageMgr::OnInitDBLib, 298,  wait for callback
+[10-15 10:00:03 3876406 4408 5732 WARNING] imsdk CIMStorageMgr::OnInitDBLib, 298,  wait for callback
+[10-15 10:00:03 3876406 4408 5408 WARNING] imsdk CIMStorageMgr::OnInitDBLib, 298,  wait for callback
+[10-15 10:00:03 3876406 4408 5420 WARNING] imsdk CIMStorageMgr::OnInitDBLib, 298,  wait for callback
+[10-15 10:00:03 3876406 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginservice.cpp(367) CIMLoginService::OnCallback4LoginImp, UpdateLocalServerTime. time=1508032821538
+[10-15 10:00:03 3876422 4408 5428 WARNING] imsdk CIMStorageMgr::OnInitDBLib, 293,  callback all finished!
+[10-15 10:00:03 3876422 4408 5420 WARNING] imsdk CIMStorageMgr::OnInitDBLib, 293,  callback all finished!
+[10-15 10:00:03 3876468 4408 3824 WARNING] imsdk CIMStorageMgr::OnInitStorageCallback, 314,  wait for callback
+[10-15 10:00:03 3876468 4408 3824 WARNING] imsdk CIMStorageMgr::OnInitStorageCallback, 314,  wait for callback
+[10-15 10:00:03 3876515 4408 5748 WARNING] imsdk CIMStorageMgr::OnInitDBLib, 298,  wait for callback
+[10-15 10:00:03 3876812 4408 5732 WARNING] imsdk CIMStorageMgr::OnInitDBLib, 293,  callback all finished!
+[10-15 10:00:03 3876827 4408 3824 WARNING] imsdk CIMStorageMgr::OnInitStorageCallback, 307,  callback all finished!
+[10-15 10:00:03 3876827 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(215) CIMLoginBiz::DoLoginOkTask, 
+[10-15 10:00:03 3876827 4408 3824 WARNING] imsdk CIMStorageMgr::OnInitStorageCallback, 314,  wait for callback
+[10-15 10:00:03 3876827 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(239) CIMLoginBiz::DoPostLoginTask,  wait for callback
+[10-15 10:00:03 3876936 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(242) CIMLoginBiz::DoPostLoginTask,  callback all finished!
+[10-15 10:00:04 3877342 4408 3824 WARNING] imsdk CIMServiceMgr::UserInit, 126, [cntaobao打死你我也不相信]
+[10-15 10:00:04 3877342 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imtribemsgmgr.cpp(47) CIMTribeMsgMgr::SetMsgOfflineFlag, m_bMsgOfflineFlag,flag.. ##2#{ [false][false] }##
+[10-15 10:00:04 3877342 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(47) CIMSingleMsgMgr::SetMsgOfflineFlag, (m_bMsgOfflineFlag,flag). ##2#{ [false][false] }##
+[10-15 10:00:04 3877404 4408 3824 ERROR] imsdk cntaobao打死你我也不相信, imtribemgr.cpp(514) CIMTribeMgr::GetRecentChatMsg, NO invalid tribe!!
+[10-15 10:00:04 3877545 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(164) CIMRecentChatMgr::ReqSvrRecentItems, (result). ##1#{ [0x0:0x0] }##
+[10-15 10:00:04 3877545 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(129) CIMRecentChatService::ReqSvrRecentChat, CImReqGetrctlist. (llLocalVersion,nCount). ##2#{ [0][1000] }##
+[10-15 10:00:04 3877638 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(154) CIMRecentChatService::OnRspSvrRecentChat, CImRspGetrctlist. (llVersion,sizeItmes). ##2#{ [1508032725826][1] }##
+[10-15 10:00:04 3877638 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(185) CIMRecentChatMgr::RspSvrRecentItems, $$RspSvrRecentItems succeed!! (result). ##1#{ [0x0:0x0] }##
+[10-15 10:00:04 3877638 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(214) CIMRecentChatMgr::RspSvrRecentItems, $$server recent chat. (ContactID,cntUnRead,LatestMsg,MsgReaded,timeOp,flagOp). ##6#{ [cntaobao旭日蓬勃数码专营店][2][1508032725818][1508032723804][0][0] }##
+[10-15 10:00:04 3877638 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(218) CIMRecentChatMgr::RspSvrRecentItems, merge!! strServerIDs=|cntaobao旭日蓬勃数码专营店|
+[10-15 10:00:04 3877638 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(223) CIMRecentChatMgr::RspSvrRecentItems, update db!! (newsize). ##1#{ [1] }##
+[10-15 10:00:04 3877638 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imofflinemsgdispatch.cpp(62) CImOfflineMsgDispatch::FetchOfflineMsgImp, nTypeFetch=3,nBatchFetch=4096,dwAckCount=0
+[10-15 10:00:04 3877638 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(128) CIMRecentChatMgr::AsyncFetchOfflineMsg, fetch im offline msgs.. ##0#{}##
+[10-15 10:00:04 3877638 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(54) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, CreateChatItems. ##1#{ [CIMRecentChatMgr::RspSvrRecentItems] }##
+[10-15 10:00:04 3877638 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(154) CIMSingleChatMgr::OnCreateRcntChatItems, onUnreadMsgCountNty! (size). ##1#{ [1] }##
+[10-15 10:00:04 3877670 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(445) CIMRecentChatService::ReqLatestChatMsgImp, encode=utf8,cmd=CMD_RoamRecentUserMsgss.(scRoamReqInfo,countReq). ##2#{ [{"actor":"cntaobao打死你我也不相信","appid":65,"cids":["cntaobao旭日蓬勃数码专营店"],"device":86,"optype":0,"out":"imsdk-pcbeta","sdk_ver":"2.6.10_IMSDK"}][1] }##
+[10-15 10:00:04 3877670 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(323) CIMRecentChatMgr::OnSvrRecentSaveDB, SetSvrDataVersion. (newversion). ##1#{ [1508032725826] }##
+[10-15 10:00:04 3877716 4408 5424 ERROR] 2.6.10_IMSDK IMPackage::Unpack, 71, cmd : 12010a02, ret code error : 1
+[10-15 10:00:04 3877716 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imrecenttribemgr.cpp(230) CIMRecentTribeMgr::OnNotifyShallowLogin, rsult. ##1#{ [0x0:0x0] }##
+[10-15 10:00:04 3877716 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imtribemgr.cpp(1718) CIMTribeMgr::OnShallowLoginCallback, notify recent chat items! (size). ##1#{ [1] }##
+[10-15 10:00:04 3877716 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imtribemsgmgr.cpp(402) CIMTribeMsgMgr::SetMsgNotifySwitchOpened, m_bIsMsgNotifySwitchOpened->bSetNotifyOpened. ##2#{ [false][true] }##
+[10-15 10:00:04 3877794 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(578) CIMRecentChatService::OnRspLatestChatMsg, rsp = |{cntaobao旭日蓬勃数码专营店:6269474800820476004}|
+[10-15 10:00:09 3883114 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(86) CIMSingleMsgMgr::GetOfflineMsgs, (cid,erase,msgs). ##3#{ [cntaobao旭日蓬勃数码专营店][true][0] }##
+[10-15 10:00:09 3883114 4408 3824 ERROR] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(509) CIMRecentChatMgr::SetNewMsgReaded, fix timeMsgReaded.(cid,timeMsgReaded). ##2#{ [cntaobao旭日蓬勃数码专营店][1508032828246] }##
+[10-15 10:00:09 3883114 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(480) CIMRecentChatMgr::SetNewMsgReadedImp, $$set as 0. (bizcid). ##1#{ [cntaobao旭日蓬勃数码专营店] }##
+[10-15 10:00:09 3883114 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(286) CIMRecentChatService::SetNewMsgReadedImp, (contact,timeMsgReaded). ##2#{ [cntaobao旭日蓬勃数码专营店][1508032828246] }##
+[10-15 10:00:09 3883114 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(216) CIMRecentChatService::NetUpdateChatItemOption, (contact,chOpcode,timestamp). ##3#{ [cntaobao旭日蓬勃数码专营店][4][1508032828246] }##
+[10-15 10:00:09 3883114 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(70) CIMSingleMsgMgr::GetNewMsgs, (cid,erase,msgs,bOutOfCache). ##4#{ [cntaobao旭日蓬勃数码专营店][true][0][false] }##
+[10-15 10:00:09 3883114 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(94) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateRcntChatItems. ##1#{ [CIMRecentChatMgr::SetNewMsgReaded] }##
+[10-15 10:00:09 3883114 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(95) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateMsgsUnreadCnt. ##1#{ [CIMRecentChatMgr::SetNewMsgReaded] }##
+[10-15 10:00:09 3883114 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(43) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, unread msg!(cid,old,new). ##3#{ [cntaobao旭日蓬勃数码专营店][2][0] }##
+[10-15 10:00:09 3883114 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(48) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, onUnreadMsgCountNty! (size). ##1#{ [1] }##
+[10-15 10:00:10 3883239 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(328) CIMRecentChatService::OnRspSetNewMsgReaded, (contact,timeMsgReaded,result,timeOperate). ##4#{ [cntaobao旭日蓬勃数码专营店][1508032828246][0x0:0x0][1508032828686] }##
+[10-15 10:00:10 3883270 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imroamsinglemsgservice.cpp(125) CIMRoamSingleMsgService::RoamMsgs, roam msg req. ##2#{ [4098][{"actor":"cntaobao打死你我也不相信","appid":65,"btime":1505354428402,"count":400,"device":86,"etime":1508032828402,"next_key":"","now":1508032828402,"optype":0,"out":"imsdk-pcbeta","sdk_ver":"2.6.10_IMSDK","uid":"cntaobao旭日蓬勃数码专营店"}] }##
+[10-15 10:00:10 3883535 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imroamsinglemsgservice.cpp(177) CIMRoamSingleMsgService::OnRoamMsgsCallback, size=14
+[10-15 10:00:10 3883551 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imroamsinglemsgservice.cpp(219) CIMRoamSingleMsgService::OnRoamMsgsCallback, userid=cntaobao旭日蓬勃数码专营店, rsp = |{cntaobao旭日蓬勃数码专营店:6269474800820476004}|{cntaobao旭日蓬勃数码专营店:6269474800820607077}|{cntaobao旭日蓬勃数码专营店:5980879135578127989}|{cntaobao旭日蓬勃数码专营店:6269474800830306410}|{cntaobao旭日蓬勃数码专营店:5980879135570385640}|{cntaobao旭日蓬勃数码专营店:6269474800832272493}|{cntaobao旭日蓬勃数码专营店:6269474800832534638}|{cntaobao旭日蓬勃数码专营店:5980879135566317556}|{cntaobao旭日蓬勃数码专营店:6269474800924285133}|{cntaobao旭日蓬勃数码专营店:6269474800939161809}|{cntaobao旭日蓬勃数码专营店:5980879135461477343}|{cntaobao旭日蓬勃数码专营店:6269474800940865746}|{cntaobao旭日蓬勃数码专营店:5980879135460164418}|{cntaobao旭日蓬勃数码专营店:6485282293725671821}|
+[10-15 10:00:11 3884237 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imchatmediamsgservice.cpp(418) CIMChatMediaMsgService::Download,  http://interface.im.taobao.com/api/file/downloadFile.json?type=1&fileId=097effc8dabfe7730579897e545160e9.jpg&suffix=jpg&timestamp=1508032541&fromId=cntaobao%e6%97%ad%e6%97%a5%e8%93%ac%e5%8b%83%e6%95%b0%e7%a0%81%e4%b8%93%e8%90%a5%e5%ba%97&toId=cntaobao%e6%89%93%e6%ad%bb%e4%bd%a0%e6%88%91%e4%b9%9f%e4%b8%8d%e7%9b%b8%e4%bf%a1&client=pc_sdk.
+[10-15 10:00:11 3884237 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imchatmediamsgservice.cpp(442) CIMChatMediaMsgService::DownloadImpl, url=http://interface.im.taobao.com/api/file/downloadFile.json?type=1&fileId=097effc8dabfe7730579897e545160e9.jpg&suffix=jpg&timestamp=1508032541&fromId=cntaobao%e6%97%ad%e6%97%a5%e8%93%ac%e5%8b%83%e6%95%b0%e7%a0%81%e4%b8%93%e8%90%a5%e5%ba%97&toId=cntaobao%e6%89%93%e6%ad%bb%e4%bd%a0%e6%88%91%e4%b9%9f%e4%b8%8d%e7%9b%b8%e4%bf%a1&client=pc_sdk
+[10-15 10:00:11 3884237 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imchatmediamsgservice.cpp(418) CIMChatMediaMsgService::Download,  http://interface.im.taobao.com/api/file/downloadFile.json?type=1&fileId=097effc8dabfe7730579897e545160e9.jpg&suffix=jpg&timestamp=1508032723&fromId=cntaobao%e6%97%ad%e6%97%a5%e8%93%ac%e5%8b%83%e6%95%b0%e7%a0%81%e4%b8%93%e8%90%a5%e5%ba%97&toId=cntaobao%e6%89%93%e6%ad%bb%e4%bd%a0%e6%88%91%e4%b9%9f%e4%b8%8d%e7%9b%b8%e4%bf%a1&client=pc_sdk.
+[10-15 10:00:11 3884237 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imchatmediamsgservice.cpp(442) CIMChatMediaMsgService::DownloadImpl, url=http://interface.im.taobao.com/api/file/downloadFile.json?type=1&fileId=097effc8dabfe7730579897e545160e9.jpg&suffix=jpg&timestamp=1508032723&fromId=cntaobao%e6%97%ad%e6%97%a5%e8%93%ac%e5%8b%83%e6%95%b0%e7%a0%81%e4%b8%93%e8%90%a5%e5%ba%97&toId=cntaobao%e6%89%93%e6%ad%bb%e4%bd%a0%e6%88%91%e4%b9%9f%e4%b8%8d%e7%9b%b8%e4%bf%a1&client=pc_sdk
+[10-15 10:00:11 3884237 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(515) CIMSingleMsgMgr::SetFlagsPeerMsgReaded, cid,size.. ##2#{ [cntaobao旭日蓬勃数码专营店][3] }##
+[10-15 10:00:11 3884409 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(530) CIMSingleMsgMgr::RspSetFlagsPeerMsgReaded, cid,code,size. ##3#{ [cntaobao旭日蓬勃数码专营店][0x0:0x0][3] }##
+[10-15 10:00:11 3884643 4408 5352 WARNING] imsdk cntaobao打死你我也不相信, imchatmediamsgservice.cpp(492) CIMChatMediaMsgService::DownLoadTaskAfterFetch, url=http://interface.im.taobao.com/api/file/downloadFile.json?type=1&fileId=097effc8dabfe7730579897e545160e9.jpg&suffix=jpg&timestamp=1508032541&fromId=cntaobao%e6%97%ad%e6%97%a5%e8%93%ac%e5%8b%83%e6%95%b0%e7%a0%81%e4%b8%93%e8%90%a5%e5%ba%97&toId=cntaobao%e6%89%93%e6%ad%bb%e4%bd%a0%e6%88%91%e4%b9%9f%e4%b8%8d%e7%9b%b8%e4%bf%a1&client=pc_sdk,time=408ms
+[10-15 10:00:11 3884705 4408 5352 WARNING] imsdk cntaobao打死你我也不相信, imchatmediamsgservice.cpp(492) CIMChatMediaMsgService::DownLoadTaskAfterFetch, url=http://interface.im.taobao.com/api/file/downloadFile.json?type=1&fileId=097effc8dabfe7730579897e545160e9.jpg&suffix=jpg&timestamp=1508032723&fromId=cntaobao%e6%97%ad%e6%97%a5%e8%93%ac%e5%8b%83%e6%95%b0%e7%a0%81%e4%b8%93%e8%90%a5%e5%ba%97&toId=cntaobao%e6%89%93%e6%ad%bb%e4%bd%a0%e6%88%91%e4%b9%9f%e4%b8%8d%e7%9b%b8%e4%bf%a1&client=pc_sdk,time=457ms
+[10-15 10:00:19 3893207 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(515) CIMSingleMsgMgr::SetFlagsPeerMsgReaded, cid,size.. ##2#{ [cntaobao旭日蓬勃数码专营店][1] }##
+[10-15 10:00:20 3893332 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(530) CIMSingleMsgMgr::RspSetFlagsPeerMsgReaded, cid,code,size. ##3#{ [cntaobao旭日蓬勃数码专营店][0x0:0x0][1] }##
+[10-15 10:00:22 3896202 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(515) CIMSingleMsgMgr::SetFlagsPeerMsgReaded, cid,size.. ##2#{ [cntaobao旭日蓬勃数码专营店][1] }##
+[10-15 10:00:23 3896312 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(530) CIMSingleMsgMgr::RspSetFlagsPeerMsgReaded, cid,code,size. ##3#{ [cntaobao旭日蓬勃数码专营店][0x0:0x0][1] }##
+[10-15 10:01:13 3947121 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, msgreadservice.cpp(173) CMsgReadService::OnFlagMyMsgReaded, cid:cntaobao旭日蓬勃数码专营店,formid:cntaobao打死你我也不相信,msgid=5980879135578127989,svrtime=0
+[10-15 10:01:13 3947121 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(463) CIMSingleMsgMgr::OnFlagMyMsgReaded, cid. ##1#{ [cntaobao旭日蓬勃数码专营店] }##
+[10-15 10:01:14 3947433 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, msgreadservice.cpp(173) CMsgReadService::OnFlagMyMsgReaded, cid:cntaobao旭日蓬勃数码专营店,formid:cntaobao打死你我也不相信,msgid=5980879135570385640,svrtime=0
+[10-15 10:01:14 3947433 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(463) CIMSingleMsgMgr::OnFlagMyMsgReaded, cid. ##1#{ [cntaobao旭日蓬勃数码专营店] }##
+[10-15 10:01:18 3952035 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgsend.cpp(169) CIMSingleMsgSend::SendChatMsg, (msgtype,msgid). ##2#{ [0][6269474800809193394] }##
+[10-15 10:01:18 3952035 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(100) CIMSingleMsgMgr::AddNewSendMsg, (offline,cid,msgid). ##3#{ [false][cntaobao旭日蓬勃数码专营店][6269474800809193394] }##
+[10-15 10:01:18 3952035 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgsend.cpp(687) CIMSingleMsgSend::NetMultipleSendMsg, send chat msg!!(cid,msgid,msgtype,seqid). ##4#{ [cntaobao旭日蓬勃数码专营店][6269474800809193394][0][10] }##
+[10-15 10:01:18 3952035 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(40) CIMSingleMsgMgr::DoNtyAllMsgsEventsImp, onBizNtyNewMsg. ##1#{ [CIMSingleMsgMgr::AddNewSendMsg] }##
+[10-15 10:01:18 3952035 4408 3824 ERROR] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(225) CIMSingleChatMgr::OnBizNtyNewMsgImp, app NOT Register!. ##0#{}##
+[10-15 10:01:18 3952035 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(94) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateRcntChatItems. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:01:18 3952035 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(96) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateLatestMsgTime. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:01:18 3952051 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(301) CIMSingleChatMgr::OnBizOldNtyIMNewMsg, onSendNewMsg!. ##0#{}##
+[10-15 10:01:18 3952051 4408 3824 ERROR] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(509) CIMRecentChatMgr::SetNewMsgReaded, fix timeMsgReaded.(cid,timeMsgReaded). ##2#{ [cntaobao旭日蓬勃数码专营店][1508032897183] }##
+[10-15 10:01:18 3952051 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(70) CIMSingleMsgMgr::GetNewMsgs, (cid,erase,msgs,bOutOfCache). ##4#{ [cntaobao旭日蓬勃数码专营店][true][1][false] }##
+[10-15 10:01:19 3952269 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgsend.cpp(588) CIMSingleMsgSend::UpdateMsgStaus, cid,msgtype,msgid,code. ##4#{ [cntaobao旭日蓬勃数码专营店][0][6269474800809193394][0x0:0x0] }##
+[10-15 10:01:19 3952269 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgsend.cpp(541) CIMSingleMsgSend::OnReceiveMsgAck, receice ack. (seqid,svrtime,result). ##3#{ [10][1508032897681][0x0:0x0] }##
+[10-15 10:01:19 3952285 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(482) CIMSingleMsgMgr::GetFlagsMyMsgReaded, cid,items_size.. ##2#{ [cntaobao旭日蓬勃数码专营店][1] }##
+[10-15 10:01:19 3952410 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(496) CIMSingleMsgMgr::RspGetFlagsMyMsgReaded, cid,code,size.. ##3#{ [cntaobao旭日蓬勃数码专营店][0x0:0x0][0] }##
+[10-15 10:01:19 3952768 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgsend.cpp(554) CIMSingleMsgSend::OnReceiveMsgAck, duplicte ACK! (seqid,result). ##2#{ [107696794][0x0:0x0] }##
+[10-15 10:01:25 3958774 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, msgreadservice.cpp(173) CMsgReadService::OnFlagMyMsgReaded, cid:cntaobao旭日蓬勃数码专营店,formid:cntaobao打死你我也不相信,msgid=6269474800809193394,svrtime=1508032897681
+[10-15 10:01:25 3958774 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, msgreadservice.cpp(173) CMsgReadService::OnFlagMyMsgReaded, cid:cntaobao旭日蓬勃数码专营店,formid:cntaobao打死你我也不相信,msgid=5980879135591977625,svrtime=1508032897871
+[10-15 10:01:25 3958774 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(463) CIMSingleMsgMgr::OnFlagMyMsgReaded, cid. ##1#{ [cntaobao旭日蓬勃数码专营店] }##
+[10-15 10:01:33 3966824 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatservice.cpp(214) CIMSingleChatService::OnNewMsgNotify, new msg.cmd:0x0,uuid:6269474800808220768,fromId:cntaobao旭日蓬勃数码专营店,toId:cntaobao打死你我也不相信,sendId:cntaobao旭日蓬勃数码专营店,svrExtinfo:{"gws_msg_content_type":"0","msg_feature":"1","realFromId":"cntaobao旭日蓬勃数码专营店","realToId":"cntaobao打死你我也不相信"}
+[10-15 10:01:33 3966824 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(214) CIMSingleMsgMgr::OnNewMsgNotify, (cid,msgid,msgtype,totalmsgCount,msg_features). ##5#{ [cntaobao旭日蓬勃数码专营店][6269474800808220768][0][1][1] }##
+[10-15 10:01:33 3966824 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(40) CIMSingleMsgMgr::DoNtyAllMsgsEventsImp, onBizNtyNewMsg. ##1#{ [CIMSingleMsgMgr::OnNewMsgNotify] }##
+[10-15 10:01:33 3966824 4408 3824 ERROR] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(225) CIMSingleChatMgr::OnBizNtyNewMsgImp, app NOT Register!. ##0#{}##
+[10-15 10:01:33 3966824 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.h(209) CIMRecentChatMgr::OnAllNewMsgImp, $$add 1. (cid,msgid,msgtime). ##3#{ [cntaobao旭日蓬勃数码专营店][6269474800808220768][1508032912201] }##
+[10-15 10:01:33 3966824 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(94) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateRcntChatItems. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:01:33 3966824 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(95) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateMsgsUnreadCnt. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:01:33 3966824 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(43) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, unread msg!(cid,old,new). ##3#{ [cntaobao旭日蓬勃数码专营店][0][1] }##
+[10-15 10:01:33 3966824 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(48) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, onUnreadMsgCountNty! (size). ##1#{ [1] }##
+[10-15 10:01:33 3966840 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(96) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateLatestMsgTime. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:01:33 3966840 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(302) CIMSingleChatMgr::OnBizOldNtyIMNewMsg, onReceiveNew!. ##0#{}##
+[10-15 10:01:33 3966840 4408 3824 ERROR] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(509) CIMRecentChatMgr::SetNewMsgReaded, fix timeMsgReaded.(cid,timeMsgReaded). ##2#{ [cntaobao旭日蓬勃数码专营店][1508032912217] }##
+[10-15 10:01:33 3966840 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(480) CIMRecentChatMgr::SetNewMsgReadedImp, $$set as 0. (bizcid). ##1#{ [cntaobao旭日蓬勃数码专营店] }##
+[10-15 10:01:33 3966840 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(286) CIMRecentChatService::SetNewMsgReadedImp, (contact,timeMsgReaded). ##2#{ [cntaobao旭日蓬勃数码专营店][1508032912217] }##
+[10-15 10:01:33 3966840 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(216) CIMRecentChatService::NetUpdateChatItemOption, (contact,chOpcode,timestamp). ##3#{ [cntaobao旭日蓬勃数码专营店][4][1508032912217] }##
+[10-15 10:01:33 3966855 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(70) CIMSingleMsgMgr::GetNewMsgs, (cid,erase,msgs,bOutOfCache). ##4#{ [cntaobao旭日蓬勃数码专营店][true][1][false] }##
+[10-15 10:01:33 3966855 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(94) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateRcntChatItems. ##1#{ [CIMRecentChatMgr::SetNewMsgReaded] }##
+[10-15 10:01:33 3966855 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(95) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateMsgsUnreadCnt. ##1#{ [CIMRecentChatMgr::SetNewMsgReaded] }##
+[10-15 10:01:33 3966855 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(43) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, unread msg!(cid,old,new). ##3#{ [cntaobao旭日蓬勃数码专营店][1][0] }##
+[10-15 10:01:33 3966855 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(48) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, onUnreadMsgCountNty! (size). ##1#{ [1] }##
+[10-15 10:01:33 3966871 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(515) CIMSingleMsgMgr::SetFlagsPeerMsgReaded, cid,size.. ##2#{ [cntaobao旭日蓬勃数码专营店][1] }##
+[10-15 10:01:34 3967339 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(328) CIMRecentChatService::OnRspSetNewMsgReaded, (contact,timeMsgReaded,result,timeOperate). ##4#{ [cntaobao旭日蓬勃数码专营店][1508032912217][0x0:0x0][1508032912445] }##
+[10-15 10:01:34 3967339 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(530) CIMSingleMsgMgr::RspSetFlagsPeerMsgReaded, cid,code,size. ##3#{ [cntaobao旭日蓬勃数码专营店][0x0:0x0][1] }##
+[10-15 10:02:47 4040862 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgsend.cpp(169) CIMSingleMsgSend::SendChatMsg, (msgtype,msgid). ##2#{ [0][6269474800803360689] }##
+[10-15 10:02:47 4040862 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(100) CIMSingleMsgMgr::AddNewSendMsg, (offline,cid,msgid). ##3#{ [false][cntaobao旭日蓬勃数码专营店][6269474800803360689] }##
+[10-15 10:02:47 4040862 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgsend.cpp(687) CIMSingleMsgSend::NetMultipleSendMsg, send chat msg!!(cid,msgid,msgtype,seqid). ##4#{ [cntaobao旭日蓬勃数码专营店][6269474800803360689][0][11] }##
+[10-15 10:02:47 4040862 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(40) CIMSingleMsgMgr::DoNtyAllMsgsEventsImp, onBizNtyNewMsg. ##1#{ [CIMSingleMsgMgr::AddNewSendMsg] }##
+[10-15 10:02:47 4040878 4408 3824 ERROR] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(225) CIMSingleChatMgr::OnBizNtyNewMsgImp, app NOT Register!. ##0#{}##
+[10-15 10:02:47 4040878 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(94) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateRcntChatItems. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:02:47 4040878 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(96) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateLatestMsgTime. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:02:47 4040878 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(301) CIMSingleChatMgr::OnBizOldNtyIMNewMsg, onSendNewMsg!. ##0#{}##
+[10-15 10:02:47 4040878 4408 3824 ERROR] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(509) CIMRecentChatMgr::SetNewMsgReaded, fix timeMsgReaded.(cid,timeMsgReaded). ##2#{ [cntaobao旭日蓬勃数码专营店][1508032986255] }##
+[10-15 10:02:47 4040878 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(70) CIMSingleMsgMgr::GetNewMsgs, (cid,erase,msgs,bOutOfCache). ##4#{ [cntaobao旭日蓬勃数码专营店][true][1][false] }##
+[10-15 10:02:47 4041081 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgsend.cpp(588) CIMSingleMsgSend::UpdateMsgStaus, cid,msgtype,msgid,code. ##4#{ [cntaobao旭日蓬勃数码专营店][0][6269474800803360689][0x0:0x0] }##
+[10-15 10:02:47 4041081 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgsend.cpp(541) CIMSingleMsgSend::OnReceiveMsgAck, receice ack. (seqid,svrtime,result). ##3#{ [11][1508032986470][0x0:0x0] }##
+[10-15 10:02:47 4041081 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(482) CIMSingleMsgMgr::GetFlagsMyMsgReaded, cid,items_size.. ##2#{ [cntaobao旭日蓬勃数码专营店][1] }##
+[10-15 10:02:47 4041174 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(496) CIMSingleMsgMgr::RspGetFlagsMyMsgReaded, cid,code,size.. ##3#{ [cntaobao旭日蓬勃数码专营店][0x0:0x0][0] }##
+[10-15 10:03:24 4077678 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, msgreadservice.cpp(173) CMsgReadService::OnFlagMyMsgReaded, cid:cntaobao旭日蓬勃数码专营店,formid:cntaobao打死你我也不相信,msgid=6269474800803360689,svrtime=1508032986470
+[10-15 10:03:24 4077678 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(463) CIMSingleMsgMgr::OnFlagMyMsgReaded, cid. ##1#{ [cntaobao旭日蓬勃数码专营店] }##
+[10-15 10:03:26 4079753 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatservice.cpp(214) CIMSingleChatService::OnNewMsgNotify, new msg.cmd:0x0,uuid:6269474800800880732,fromId:cntaobao旭日蓬勃数码专营店,toId:cntaobao打死你我也不相信,sendId:cntaobao旭日蓬勃数码专营店,svrExtinfo:{"gws_msg_content_type":"0","msg_feature":"1","realFromId":"cntaobao旭日蓬勃数码专营店","realToId":"cntaobao打死你我也不相信"}
+[10-15 10:03:26 4079753 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(214) CIMSingleMsgMgr::OnNewMsgNotify, (cid,msgid,msgtype,totalmsgCount,msg_features). ##5#{ [cntaobao旭日蓬勃数码专营店][6269474800800880732][0][2][1] }##
+[10-15 10:03:26 4079753 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(40) CIMSingleMsgMgr::DoNtyAllMsgsEventsImp, onBizNtyNewMsg. ##1#{ [CIMSingleMsgMgr::OnNewMsgNotify] }##
+[10-15 10:03:26 4079753 4408 3824 ERROR] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(225) CIMSingleChatMgr::OnBizNtyNewMsgImp, app NOT Register!. ##0#{}##
+[10-15 10:03:26 4079753 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.h(209) CIMRecentChatMgr::OnAllNewMsgImp, $$add 1. (cid,msgid,msgtime). ##3#{ [cntaobao旭日蓬勃数码专营店][6269474800800880732][1508033024808] }##
+[10-15 10:03:26 4079769 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(94) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateRcntChatItems. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:03:26 4079769 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(95) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateMsgsUnreadCnt. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:03:26 4079769 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(43) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, unread msg!(cid,old,new). ##3#{ [cntaobao旭日蓬勃数码专营店][0][1] }##
+[10-15 10:03:26 4079769 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(48) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, onUnreadMsgCountNty! (size). ##1#{ [1] }##
+[10-15 10:03:26 4079769 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(96) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateLatestMsgTime. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:03:26 4079769 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(302) CIMSingleChatMgr::OnBizOldNtyIMNewMsg, onReceiveNew!. ##0#{}##
+[10-15 10:03:26 4079800 4408 3824 ERROR] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(509) CIMRecentChatMgr::SetNewMsgReaded, fix timeMsgReaded.(cid,timeMsgReaded). ##2#{ [cntaobao旭日蓬勃数码专营店][1508033024855] }##
+[10-15 10:03:26 4079800 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(480) CIMRecentChatMgr::SetNewMsgReadedImp, $$set as 0. (bizcid). ##1#{ [cntaobao旭日蓬勃数码专营店] }##
+[10-15 10:03:26 4079800 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(286) CIMRecentChatService::SetNewMsgReadedImp, (contact,timeMsgReaded). ##2#{ [cntaobao旭日蓬勃数码专营店][1508033024855] }##
+[10-15 10:03:26 4079800 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(216) CIMRecentChatService::NetUpdateChatItemOption, (contact,chOpcode,timestamp). ##3#{ [cntaobao旭日蓬勃数码专营店][4][1508033024855] }##
+[10-15 10:03:26 4079800 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(70) CIMSingleMsgMgr::GetNewMsgs, (cid,erase,msgs,bOutOfCache). ##4#{ [cntaobao旭日蓬勃数码专营店][true][1][false] }##
+[10-15 10:03:26 4079800 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(94) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateRcntChatItems. ##1#{ [CIMRecentChatMgr::SetNewMsgReaded] }##
+[10-15 10:03:26 4079800 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(95) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateMsgsUnreadCnt. ##1#{ [CIMRecentChatMgr::SetNewMsgReaded] }##
+[10-15 10:03:26 4079800 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(43) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, unread msg!(cid,old,new). ##3#{ [cntaobao旭日蓬勃数码专营店][1][0] }##
+[10-15 10:03:26 4079800 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(48) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, onUnreadMsgCountNty! (size). ##1#{ [1] }##
+[10-15 10:03:26 4079816 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(515) CIMSingleMsgMgr::SetFlagsPeerMsgReaded, cid,size.. ##2#{ [cntaobao旭日蓬勃数码专营店][1] }##
+[10-15 10:03:26 4079987 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(328) CIMRecentChatService::OnRspSetNewMsgReaded, (contact,timeMsgReaded,result,timeOperate). ##4#{ [cntaobao旭日蓬勃数码专营店][1508033024855][0x0:0x0][1508033025405] }##
+[10-15 10:03:26 4079987 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(530) CIMSingleMsgMgr::RspSetFlagsPeerMsgReaded, cid,code,size. ##3#{ [cntaobao旭日蓬勃数码专营店][0x0:0x0][1] }##
+[10-15 10:03:30 4083279 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, msgreadservice.cpp(173) CMsgReadService::OnFlagMyMsgReaded, cid:cntaobao旭日蓬勃数码专营店,formid:cntaobao打死你我也不相信,msgid=6269474800803360689,svrtime=0
+[10-15 10:03:30 4083279 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(463) CIMSingleMsgMgr::OnFlagMyMsgReaded, cid. ##1#{ [cntaobao旭日蓬勃数码专营店] }##
+[10-15 10:04:08 4121281 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatservice.cpp(214) CIMSingleChatService::OnNewMsgNotify, new msg.cmd:0x0,uuid:6269109511754612993,fromId:cntaobao旭日蓬勃数码专营店,toId:cntaobao打死你我也不相信,sendId:cntaobao旭日蓬勃数码专营店,svrExtinfo:{"gws_msg_content_type":"1","msg_feature":"1","realFromId":"cntaobao旭日蓬勃数码专营店","realToId":"cntaobao打死你我也不相信"}
+[10-15 10:04:08 4121281 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(214) CIMSingleMsgMgr::OnNewMsgNotify, (cid,msgid,msgtype,totalmsgCount,msg_features). ##5#{ [cntaobao旭日蓬勃数码专营店][6269109511754612993][0][3][1] }##
+[10-15 10:04:08 4121281 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(40) CIMSingleMsgMgr::DoNtyAllMsgsEventsImp, onBizNtyNewMsg. ##1#{ [CIMSingleMsgMgr::OnNewMsgNotify] }##
+[10-15 10:04:08 4121281 4408 3824 ERROR] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(225) CIMSingleChatMgr::OnBizNtyNewMsgImp, app NOT Register!. ##0#{}##
+[10-15 10:04:08 4121281 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.h(209) CIMRecentChatMgr::OnAllNewMsgImp, $$add 1. (cid,msgid,msgtime). ##3#{ [cntaobao旭日蓬勃数码专营店][6269109511754612993][1508033066686] }##
+[10-15 10:04:08 4121296 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(94) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateRcntChatItems. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:04:08 4121296 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(95) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateMsgsUnreadCnt. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:04:08 4121296 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(43) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, unread msg!(cid,old,new). ##3#{ [cntaobao旭日蓬勃数码专营店][0][1] }##
+[10-15 10:04:08 4121296 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(48) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, onUnreadMsgCountNty! (size). ##1#{ [1] }##
+[10-15 10:04:08 4121296 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(96) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateLatestMsgTime. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:04:08 4121296 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(302) CIMSingleChatMgr::OnBizOldNtyIMNewMsg, onReceiveNew!. ##0#{}##
+[10-15 10:04:08 4121296 4408 3824 ERROR] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(509) CIMRecentChatMgr::SetNewMsgReaded, fix timeMsgReaded.(cid,timeMsgReaded). ##2#{ [cntaobao旭日蓬勃数码专营店][1508033066701] }##
+[10-15 10:04:08 4121296 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(480) CIMRecentChatMgr::SetNewMsgReadedImp, $$set as 0. (bizcid). ##1#{ [cntaobao旭日蓬勃数码专营店] }##
+[10-15 10:04:08 4121296 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(286) CIMRecentChatService::SetNewMsgReadedImp, (contact,timeMsgReaded). ##2#{ [cntaobao旭日蓬勃数码专营店][1508033066701] }##
+[10-15 10:04:08 4121296 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(216) CIMRecentChatService::NetUpdateChatItemOption, (contact,chOpcode,timestamp). ##3#{ [cntaobao旭日蓬勃数码专营店][4][1508033066701] }##
+[10-15 10:04:08 4121296 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(70) CIMSingleMsgMgr::GetNewMsgs, (cid,erase,msgs,bOutOfCache). ##4#{ [cntaobao旭日蓬勃数码专营店][true][1][false] }##
+[10-15 10:04:08 4121312 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(94) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateRcntChatItems. ##1#{ [CIMRecentChatMgr::SetNewMsgReaded] }##
+[10-15 10:04:08 4121312 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(95) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateMsgsUnreadCnt. ##1#{ [CIMRecentChatMgr::SetNewMsgReaded] }##
+[10-15 10:04:08 4121312 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(43) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, unread msg!(cid,old,new). ##3#{ [cntaobao旭日蓬勃数码专营店][1][0] }##
+[10-15 10:04:08 4121312 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(48) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, onUnreadMsgCountNty! (size). ##1#{ [1] }##
+[10-15 10:04:08 4121312 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imchatmediamsgservice.cpp(418) CIMChatMediaMsgService::Download,  http://interface.im.taobao.com/mobileimweb/fileupload/downloadPriFile.do?type=1&fileId=56533759324665bbb1914a3fea0fd219.jpg&suffix=jpg&width=595&height=793&mediaSize=108375&fromId=cnhhupan%E6%97%AD%E6%97%A5%E8%93%AC%E5%8B%83%E6%95%B0%E7%A0%81%E4%B8%93%E8%90%A5%E5%BA%97&toId=cnhhupan%E6%89%93%E6%AD%BB%E4%BD%A0%E6%88%91%E4%B9%9F%E4%B8%8D%E7%9B%B8%E4%BF%A1&YWOriginalImage=0&YWShowOriginal=1&wangxintype=1_3139620&client=ww.
+[10-15 10:04:08 4121312 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imchatmediamsgservice.cpp(442) CIMChatMediaMsgService::DownloadImpl, url=http://interface.im.taobao.com/mobileimweb/fileupload/downloadPriFile.do?type=1&fileId=56533759324665bbb1914a3fea0fd219.jpg&suffix=jpg&width=595&height=793&mediaSize=108375&fromId=cnhhupan%E6%97%AD%E6%97%A5%E8%93%AC%E5%8B%83%E6%95%B0%E7%A0%81%E4%B8%93%E8%90%A5%E5%BA%97&toId=cnhhupan%E6%89%93%E6%AD%BB%E4%BD%A0%E6%88%91%E4%B9%9F%E4%B8%8D%E7%9B%B8%E4%BF%A1&YWOriginalImage=0&YWShowOriginal=1&wangxintype=1_3139620&client=ww
+[10-15 10:04:08 4121328 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(515) CIMSingleMsgMgr::SetFlagsPeerMsgReaded, cid,size.. ##2#{ [cntaobao旭日蓬勃数码专营店][1] }##
+[10-15 10:04:08 4121406 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(328) CIMRecentChatService::OnRspSetNewMsgReaded, (contact,timeMsgReaded,result,timeOperate). ##4#{ [cntaobao旭日蓬勃数码专营店][1508033066701][0x0:0x0][1508033066902] }##
+[10-15 10:04:08 4121702 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(530) CIMSingleMsgMgr::RspSetFlagsPeerMsgReaded, cid,code,size. ##3#{ [cntaobao旭日蓬勃数码专营店][0x0:0x0][1] }##
+[10-15 10:04:08 4121858 4408 5352 WARNING] imsdk cntaobao打死你我也不相信, imchatmediamsgservice.cpp(492) CIMChatMediaMsgService::DownLoadTaskAfterFetch, url=http://interface.im.taobao.com/mobileimweb/fileupload/downloadPriFile.do?type=1&fileId=56533759324665bbb1914a3fea0fd219.jpg&suffix=jpg&width=595&height=793&mediaSize=108375&fromId=cnhhupan%E6%97%AD%E6%97%A5%E8%93%AC%E5%8B%83%E6%95%B0%E7%A0%81%E4%B8%93%E8%90%A5%E5%BA%97&toId=cnhhupan%E6%89%93%E6%AD%BB%E4%BD%A0%E6%88%91%E4%B9%9F%E4%B8%8D%E7%9B%B8%E4%BF%A1&YWOriginalImage=0&YWShowOriginal=1&wangxintype=1_3139620&client=ww,time=548ms
+[10-15 10:07:43 4336328 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(515) CIMSingleMsgMgr::SetFlagsPeerMsgReaded, cid,size.. ##2#{ [cntaobao旭日蓬勃数码专营店][1] }##
+[10-15 10:07:43 4336390 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(515) CIMSingleMsgMgr::SetFlagsPeerMsgReaded, cid,size.. ##2#{ [cntaobao旭日蓬勃数码专营店][1] }##
+[10-15 10:07:43 4336515 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(530) CIMSingleMsgMgr::RspSetFlagsPeerMsgReaded, cid,code,size. ##3#{ [cntaobao旭日蓬勃数码专营店][0x0:0x0][1] }##
+[10-15 10:07:43 4336515 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(530) CIMSingleMsgMgr::RspSetFlagsPeerMsgReaded, cid,code,size. ##3#{ [cntaobao旭日蓬勃数码专营店][0x0:0x0][1] }##
+[10-15 10:10:03 4476573 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginservice.cpp(176) CIMLoginService::OnRspServerTimeCallbackImp, UpdateLocalServerTime. time=1508033422005. interval=1800
+[10-15 10:10:56 4529255 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatservice.cpp(214) CIMSingleChatService::OnNewMsgNotify, new msg.cmd:0x0,uuid:6269474800771389498,fromId:cntaobao旭日蓬勃数码专营店,toId:cntaobao打死你我也不相信,sendId:cntaobao旭日蓬勃数码专营店,svrExtinfo:{"gws_msg_content_type":"0","msg_feature":"1","realFromId":"cntaobao旭日蓬勃数码专营店","realToId":"cntaobao打死你我也不相信"}
+[10-15 10:10:56 4529255 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(214) CIMSingleMsgMgr::OnNewMsgNotify, (cid,msgid,msgtype,totalmsgCount,msg_features). ##5#{ [cntaobao旭日蓬勃数码专营店][6269474800771389498][0][4][1] }##
+[10-15 10:10:56 4529255 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(40) CIMSingleMsgMgr::DoNtyAllMsgsEventsImp, onBizNtyNewMsg. ##1#{ [CIMSingleMsgMgr::OnNewMsgNotify] }##
+[10-15 10:10:56 4529255 4408 3824 ERROR] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(225) CIMSingleChatMgr::OnBizNtyNewMsgImp, app NOT Register!. ##0#{}##
+[10-15 10:10:56 4529255 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.h(209) CIMRecentChatMgr::OnAllNewMsgImp, $$add 1. (cid,msgid,msgtime). ##3#{ [cntaobao旭日蓬勃数码专营店][6269474800771389498][1508033474689] }##
+[10-15 10:10:56 4529255 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(94) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateRcntChatItems. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:10:56 4529255 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(95) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateMsgsUnreadCnt. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:10:56 4529255 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(43) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, unread msg!(cid,old,new). ##3#{ [cntaobao旭日蓬勃数码专营店][0][1] }##
+[10-15 10:10:56 4529255 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(48) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, onUnreadMsgCountNty! (size). ##1#{ [1] }##
+[10-15 10:10:56 4529255 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(96) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateLatestMsgTime. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:10:56 4529255 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(302) CIMSingleChatMgr::OnBizOldNtyIMNewMsg, onReceiveNew!. ##0#{}##
+[10-15 10:10:56 4529270 4408 3824 ERROR] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(509) CIMRecentChatMgr::SetNewMsgReaded, fix timeMsgReaded.(cid,timeMsgReaded). ##2#{ [cntaobao旭日蓬勃数码专营店][1508033474704] }##
+[10-15 10:10:56 4529270 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(480) CIMRecentChatMgr::SetNewMsgReadedImp, $$set as 0. (bizcid). ##1#{ [cntaobao旭日蓬勃数码专营店] }##
+[10-15 10:10:56 4529270 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(286) CIMRecentChatService::SetNewMsgReadedImp, (contact,timeMsgReaded). ##2#{ [cntaobao旭日蓬勃数码专营店][1508033474704] }##
+[10-15 10:10:56 4529270 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(216) CIMRecentChatService::NetUpdateChatItemOption, (contact,chOpcode,timestamp). ##3#{ [cntaobao旭日蓬勃数码专营店][4][1508033474704] }##
+[10-15 10:10:56 4529270 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(70) CIMSingleMsgMgr::GetNewMsgs, (cid,erase,msgs,bOutOfCache). ##4#{ [cntaobao旭日蓬勃数码专营店][true][1][false] }##
+[10-15 10:10:56 4529270 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(94) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateRcntChatItems. ##1#{ [CIMRecentChatMgr::SetNewMsgReaded] }##
+[10-15 10:10:56 4529270 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(95) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateMsgsUnreadCnt. ##1#{ [CIMRecentChatMgr::SetNewMsgReaded] }##
+[10-15 10:10:56 4529270 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(43) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, unread msg!(cid,old,new). ##3#{ [cntaobao旭日蓬勃数码专营店][1][0] }##
+[10-15 10:10:56 4529270 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(48) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, onUnreadMsgCountNty! (size). ##1#{ [1] }##
+[10-15 10:10:56 4529286 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(515) CIMSingleMsgMgr::SetFlagsPeerMsgReaded, cid,size.. ##2#{ [cntaobao旭日蓬勃数码专营店][1] }##
+[10-15 10:10:56 4529629 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(328) CIMRecentChatService::OnRspSetNewMsgReaded, (contact,timeMsgReaded,result,timeOperate). ##4#{ [cntaobao旭日蓬勃数码专营店][1508033474704][0x0:0x0][1508033474886] }##
+[10-15 10:10:56 4529629 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(530) CIMSingleMsgMgr::RspSetFlagsPeerMsgReaded, cid,code,size. ##3#{ [cntaobao旭日蓬勃数码专营店][0x0:0x0][1] }##
+[10-15 10:11:03 4536618 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgsend.cpp(169) CIMSingleMsgSend::SendChatMsg, (msgtype,msgid). ##2#{ [0][6269474800770854832] }##
+[10-15 10:11:03 4536618 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(100) CIMSingleMsgMgr::AddNewSendMsg, (offline,cid,msgid). ##3#{ [false][cntaobao旭日蓬勃数码专营店][6269474800770854832] }##
+[10-15 10:11:03 4536618 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgsend.cpp(687) CIMSingleMsgSend::NetMultipleSendMsg, send chat msg!!(cid,msgid,msgtype,seqid). ##4#{ [cntaobao旭日蓬勃数码专营店][6269474800770854832][0][12] }##
+[10-15 10:11:03 4536618 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(40) CIMSingleMsgMgr::DoNtyAllMsgsEventsImp, onBizNtyNewMsg. ##1#{ [CIMSingleMsgMgr::AddNewSendMsg] }##
+[10-15 10:11:03 4536618 4408 3824 ERROR] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(225) CIMSingleChatMgr::OnBizNtyNewMsgImp, app NOT Register!. ##0#{}##
+[10-15 10:11:03 4536618 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(94) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateRcntChatItems. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:11:03 4536618 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(96) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateLatestMsgTime. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:11:03 4536633 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(301) CIMSingleChatMgr::OnBizOldNtyIMNewMsg, onSendNewMsg!. ##0#{}##
+[10-15 10:11:03 4536633 4408 3824 ERROR] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(509) CIMRecentChatMgr::SetNewMsgReaded, fix timeMsgReaded.(cid,timeMsgReaded). ##2#{ [cntaobao旭日蓬勃数码专营店][1508033482067] }##
+[10-15 10:11:03 4536633 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(70) CIMSingleMsgMgr::GetNewMsgs, (cid,erase,msgs,bOutOfCache). ##4#{ [cntaobao旭日蓬勃数码专营店][true][1][false] }##
+[10-15 10:11:03 4537086 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgsend.cpp(588) CIMSingleMsgSend::UpdateMsgStaus, cid,msgtype,msgid,code. ##4#{ [cntaobao旭日蓬勃数码专营店][0][6269474800770854832][0x0:0x0] }##
+[10-15 10:11:03 4537086 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgsend.cpp(541) CIMSingleMsgSend::OnReceiveMsgAck, receice ack. (seqid,svrtime,result). ##3#{ [12][1508033482215][0x0:0x0] }##
+[10-15 10:11:03 4537101 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(482) CIMSingleMsgMgr::GetFlagsMyMsgReaded, cid,items_size.. ##2#{ [cntaobao旭日蓬勃数码专营店][1] }##
+[10-15 10:11:03 4537164 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(496) CIMSingleMsgMgr::RspGetFlagsMyMsgReaded, cid,code,size.. ##3#{ [cntaobao旭日蓬勃数码专营店][0x0:0x0][0] }##
+[10-15 10:11:04 4538193 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatservice.cpp(214) CIMSingleChatService::OnNewMsgNotify, new msg.cmd:0x0,uuid:6269474800770799672,fromId:cntaobao旭日蓬勃数码专营店,toId:cntaobao打死你我也不相信,sendId:cntaobao旭日蓬勃数码专营店,svrExtinfo:{"gws_msg_content_type":"0","msg_feature":"3","partner_stompinfo":"\u0000\u0000\u0000\u000B\u0006app_id\u0000\u0000\u0000\u0000\bbiz_type\u0000\u0000\u0000\u0000\tclient_ip\u0000\u0000\u0000\u0000\rdeliver_flags\u0000\u0000\u0000\u0000\ngws_caller\u0000\u0000\u0000\u0017cntaobaowwpluginmsgctrl\u000Bis_transfer\u0000\u0000\u0000\u00010\u000Frecord_eservice\u0000\u0000\u0000\u00011\u0013security_check_type\u0000\u0000\u0000\u00010\u000Bsource_type\u0000\u0000\u0000\u0000\u0007sub_cmd\u0000\u0000\u0000\u00010\u0007version\u0000\u0000\u00007ims_cntaobaowwpluginmsgctrl_cntaobaowwpluginmsgctrlType","realFromId":"cntaobao旭日蓬勃数码专营店","realToId":"cntaobao打死你我也不相信"}
+[10-15 10:11:04 4538193 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(214) CIMSingleMsgMgr::OnNewMsgNotify, (cid,msgid,msgtype,totalmsgCount,msg_features). ##5#{ [cntaobao旭日蓬勃数码专营店][6269474800770799672][0][5][3] }##
+[10-15 10:11:04 4538193 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(40) CIMSingleMsgMgr::DoNtyAllMsgsEventsImp, onBizNtyNewMsg. ##1#{ [CIMSingleMsgMgr::OnNewMsgNotify] }##
+[10-15 10:11:04 4538193 4408 3824 ERROR] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(225) CIMSingleChatMgr::OnBizNtyNewMsgImp, app NOT Register!. ##0#{}##
+[10-15 10:11:04 4538209 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.h(209) CIMRecentChatMgr::OnAllNewMsgImp, $$add 1. (cid,msgid,msgtime). ##3#{ [cntaobao旭日蓬勃数码专营店][6269474800770799672][1508033483585] }##
+[10-15 10:11:04 4538209 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(94) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateRcntChatItems. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:11:04 4538209 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(95) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateMsgsUnreadCnt. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:11:04 4538209 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(43) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, unread msg!(cid,old,new). ##3#{ [cntaobao旭日蓬勃数码专营店][0][1] }##
+[10-15 10:11:04 4538209 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(48) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, onUnreadMsgCountNty! (size). ##1#{ [1] }##
+[10-15 10:11:04 4538209 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(96) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateLatestMsgTime. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:11:04 4538209 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(302) CIMSingleChatMgr::OnBizOldNtyIMNewMsg, onReceiveNew!. ##0#{}##
+[10-15 10:11:04 4538209 4408 3824 ERROR] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(509) CIMRecentChatMgr::SetNewMsgReaded, fix timeMsgReaded.(cid,timeMsgReaded). ##2#{ [cntaobao旭日蓬勃数码专营店][1508033483601] }##
+[10-15 10:11:04 4538209 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(480) CIMRecentChatMgr::SetNewMsgReadedImp, $$set as 0. (bizcid). ##1#{ [cntaobao旭日蓬勃数码专营店] }##
+[10-15 10:11:04 4538209 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(286) CIMRecentChatService::SetNewMsgReadedImp, (contact,timeMsgReaded). ##2#{ [cntaobao旭日蓬勃数码专营店][1508033483601] }##
+[10-15 10:11:04 4538209 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(216) CIMRecentChatService::NetUpdateChatItemOption, (contact,chOpcode,timestamp). ##3#{ [cntaobao旭日蓬勃数码专营店][4][1508033483601] }##
+[10-15 10:11:04 4538209 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(70) CIMSingleMsgMgr::GetNewMsgs, (cid,erase,msgs,bOutOfCache). ##4#{ [cntaobao旭日蓬勃数码专营店][true][1][false] }##
+[10-15 10:11:04 4538225 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(94) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateRcntChatItems. ##1#{ [CIMRecentChatMgr::SetNewMsgReaded] }##
+[10-15 10:11:05 4538225 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(95) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateMsgsUnreadCnt. ##1#{ [CIMRecentChatMgr::SetNewMsgReaded] }##
+[10-15 10:11:05 4538225 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(43) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, unread msg!(cid,old,new). ##3#{ [cntaobao旭日蓬勃数码专营店][1][0] }##
+[10-15 10:11:05 4538225 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(48) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, onUnreadMsgCountNty! (size). ##1#{ [1] }##
+[10-15 10:11:05 4538240 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(515) CIMSingleMsgMgr::SetFlagsPeerMsgReaded, cid,size.. ##2#{ [cntaobao旭日蓬勃数码专营店][1] }##
+[10-15 10:11:05 4538318 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(328) CIMRecentChatService::OnRspSetNewMsgReaded, (contact,timeMsgReaded,result,timeOperate). ##4#{ [cntaobao旭日蓬勃数码专营店][1508033483601][0x0:0x0][1508033483831] }##
+[10-15 10:11:05 4538661 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(530) CIMSingleMsgMgr::RspSetFlagsPeerMsgReaded, cid,code,size. ##3#{ [cntaobao旭日蓬勃数码专营店][0x0:0x0][1] }##
+[10-15 10:11:13 4546617 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgsend.cpp(169) CIMSingleMsgSend::SendChatMsg, (msgtype,msgid). ##2#{ [0][6269474800770199471] }##
+[10-15 10:11:13 4546617 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(100) CIMSingleMsgMgr::AddNewSendMsg, (offline,cid,msgid). ##3#{ [false][cntaobao旭日蓬勃数码专营店][6269474800770199471] }##
+[10-15 10:11:13 4546617 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgsend.cpp(687) CIMSingleMsgSend::NetMultipleSendMsg, send chat msg!!(cid,msgid,msgtype,seqid). ##4#{ [cntaobao旭日蓬勃数码专营店][6269474800770199471][0][13] }##
+[10-15 10:11:13 4546617 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(40) CIMSingleMsgMgr::DoNtyAllMsgsEventsImp, onBizNtyNewMsg. ##1#{ [CIMSingleMsgMgr::AddNewSendMsg] }##
+[10-15 10:11:13 4546617 4408 3824 ERROR] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(225) CIMSingleChatMgr::OnBizNtyNewMsgImp, app NOT Register!. ##0#{}##
+[10-15 10:11:13 4546617 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(94) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateRcntChatItems. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:11:13 4546617 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(96) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateLatestMsgTime. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:11:13 4546617 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(301) CIMSingleChatMgr::OnBizOldNtyIMNewMsg, onSendNewMsg!. ##0#{}##
+[10-15 10:11:13 4546633 4408 3824 ERROR] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(509) CIMRecentChatMgr::SetNewMsgReaded, fix timeMsgReaded.(cid,timeMsgReaded). ##2#{ [cntaobao旭日蓬勃数码专营店][1508033492025] }##
+[10-15 10:11:13 4546633 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(70) CIMSingleMsgMgr::GetNewMsgs, (cid,erase,msgs,bOutOfCache). ##4#{ [cntaobao旭日蓬勃数码专营店][true][1][false] }##
+[10-15 10:11:14 4547241 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgsend.cpp(588) CIMSingleMsgSend::UpdateMsgStaus, cid,msgtype,msgid,code. ##4#{ [cntaobao旭日蓬勃数码专营店][0][6269474800770199471][0x0:0x0] }##
+[10-15 10:11:14 4547241 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgsend.cpp(541) CIMSingleMsgSend::OnReceiveMsgAck, receice ack. (seqid,svrtime,result). ##3#{ [13][1508033492245][0x0:0x0] }##
+[10-15 10:11:14 4547257 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(482) CIMSingleMsgMgr::GetFlagsMyMsgReaded, cid,items_size.. ##2#{ [cntaobao旭日蓬勃数码专营店][1] }##
+[10-15 10:11:14 4547366 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(496) CIMSingleMsgMgr::RspGetFlagsMyMsgReaded, cid,code,size.. ##3#{ [cntaobao旭日蓬勃数码专营店][0x0:0x0][0] }##
+[10-15 10:11:15 4548879 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, msgreadservice.cpp(173) CMsgReadService::OnFlagMyMsgReaded, cid:cntaobao旭日蓬勃数码专营店,formid:cntaobao打死你我也不相信,msgid=6269474800770854832,svrtime=1508033482215
+[10-15 10:11:15 4548879 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, msgreadservice.cpp(173) CMsgReadService::OnFlagMyMsgReaded, cid:cntaobao旭日蓬勃数码专营店,formid:cntaobao打死你我也不相信,msgid=6269474800770199471,svrtime=1508033492245
+[10-15 10:11:15 4548879 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(463) CIMSingleMsgMgr::OnFlagMyMsgReaded, cid. ##1#{ [cntaobao旭日蓬勃数码专营店] }##
+[10-15 10:11:16 4549347 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatservice.cpp(214) CIMSingleChatService::OnNewMsgNotify, new msg.cmd:0x0,uuid:6269474800770078773,fromId:cntaobao旭日蓬勃数码专营店,toId:cntaobao打死你我也不相信,sendId:cntaobao旭日蓬勃数码专营店,svrExtinfo:{"gws_msg_content_type":"0","msg_feature":"3","partner_stompinfo":"\u0000\u0000\u0000\u000B\u0006app_id\u0000\u0000\u0000\u0000\bbiz_type\u0000\u0000\u0000\u0000\tclient_ip\u0000\u0000\u0000\u0000\rdeliver_flags\u0000\u0000\u0000\u0000\ngws_caller\u0000\u0000\u0000\u0017cntaobaowwpluginmsgctrl\u000Bis_transfer\u0000\u0000\u0000\u00010\u000Frecord_eservice\u0000\u0000\u0000\u00011\u0013security_check_type\u0000\u0000\u0000\u00010\u000Bsource_type\u0000\u0000\u0000\u0000\u0007sub_cmd\u0000\u0000\u0000\u00010\u0007version\u0000\u0000\u00007ims_cntaobaowwpluginmsgctrl_cntaobaowwpluginmsgctrlType","realFromId":"cntaobao旭日蓬勃数码专营店","realToId":"cntaobao打死你我也不相信"}
+[10-15 10:11:16 4549347 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(214) CIMSingleMsgMgr::OnNewMsgNotify, (cid,msgid,msgtype,totalmsgCount,msg_features). ##5#{ [cntaobao旭日蓬勃数码专营店][6269474800770078773][0][6][3] }##
+[10-15 10:11:16 4549347 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(40) CIMSingleMsgMgr::DoNtyAllMsgsEventsImp, onBizNtyNewMsg. ##1#{ [CIMSingleMsgMgr::OnNewMsgNotify] }##
+[10-15 10:11:16 4549347 4408 3824 ERROR] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(225) CIMSingleChatMgr::OnBizNtyNewMsgImp, app NOT Register!. ##0#{}##
+[10-15 10:11:16 4549347 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.h(209) CIMRecentChatMgr::OnAllNewMsgImp, $$add 1. (cid,msgid,msgtime). ##3#{ [cntaobao旭日蓬勃数码专营店][6269474800770078773][1508033494821] }##
+[10-15 10:11:16 4549347 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(94) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateRcntChatItems. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:11:16 4549347 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(95) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateMsgsUnreadCnt. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:11:16 4549347 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(43) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, unread msg!(cid,old,new). ##3#{ [cntaobao旭日蓬勃数码专营店][0][1] }##
+[10-15 10:11:16 4549347 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(48) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, onUnreadMsgCountNty! (size). ##1#{ [1] }##
+[10-15 10:11:16 4549347 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(96) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateLatestMsgTime. ##1#{ [CIMRecentChatMgr::OnAllNewMsgImp] }##
+[10-15 10:11:16 4549363 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(302) CIMSingleChatMgr::OnBizOldNtyIMNewMsg, onReceiveNew!. ##0#{}##
+[10-15 10:11:16 4549363 4408 3824 ERROR] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(509) CIMRecentChatMgr::SetNewMsgReaded, fix timeMsgReaded.(cid,timeMsgReaded). ##2#{ [cntaobao旭日蓬勃数码专营店][1508033494837] }##
+[10-15 10:11:16 4549363 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(480) CIMRecentChatMgr::SetNewMsgReadedImp, $$set as 0. (bizcid). ##1#{ [cntaobao旭日蓬勃数码专营店] }##
+[10-15 10:11:16 4549363 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(286) CIMRecentChatService::SetNewMsgReadedImp, (contact,timeMsgReaded). ##2#{ [cntaobao旭日蓬勃数码专营店][1508033494837] }##
+[10-15 10:11:16 4549363 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(216) CIMRecentChatService::NetUpdateChatItemOption, (contact,chOpcode,timestamp). ##3#{ [cntaobao旭日蓬勃数码专营店][4][1508033494837] }##
+[10-15 10:11:16 4549363 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(70) CIMSingleMsgMgr::GetNewMsgs, (cid,erase,msgs,bOutOfCache). ##4#{ [cntaobao旭日蓬勃数码专营店][true][1][false] }##
+[10-15 10:11:16 4549363 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(94) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateRcntChatItems. ##1#{ [CIMRecentChatMgr::SetNewMsgReaded] }##
+[10-15 10:11:16 4549363 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(95) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, updateMsgsUnreadCnt. ##1#{ [CIMRecentChatMgr::SetNewMsgReaded] }##
+[10-15 10:11:16 4549363 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(43) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, unread msg!(cid,old,new). ##3#{ [cntaobao旭日蓬勃数码专营店][1][0] }##
+[10-15 10:11:16 4549363 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(48) CIMSingleChatMgr::OnUpdateMsgsUnreadCnt, onUnreadMsgCountNty! (size). ##1#{ [1] }##
+[10-15 10:11:16 4549379 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(515) CIMSingleMsgMgr::SetFlagsPeerMsgReaded, cid,size.. ##2#{ [cntaobao旭日蓬勃数码专营店][1] }##
+[10-15 10:11:16 4549472 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(328) CIMRecentChatService::OnRspSetNewMsgReaded, (contact,timeMsgReaded,result,timeOperate). ##4#{ [cntaobao旭日蓬勃数码专营店][1508033494837][0x0:0x0][1508033494965] }##
+[10-15 10:11:16 4549753 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(530) CIMSingleMsgMgr::RspSetFlagsPeerMsgReaded, cid,code,size. ##3#{ [cntaobao旭日蓬勃数码专营店][0x0:0x0][1] }##
+[10-15 10:24:15 5328697 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnErrorCallThread, 493,  curState = 4, resCode = 11.
+[10-15 10:24:15 5328697 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:24:15 5328697 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 0, state=0
+[10-15 10:24:15 5328697 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(147) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信. m_numState = 2, Destroy VConn: 6491;
+[10-15 10:24:15 5328697 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannel.cpp(111) CIMNetChannel::OnConnectError,  connnect error, state: 0;
+[10-15 10:24:15 5328697 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6491.
+[10-15 10:24:15 5328697 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imnetchannel.cpp(115) CIMNetChannel::OnConnectErrorImp,  connnect error, state: 0;
+[10-15 10:24:15 5328697 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 4, state = 0, sessionid: 6490
+[10-15 10:24:15 5328697 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginservice.cpp(51) CIMLoginService::OnConnectErrorImp, state=0
+[10-15 10:24:15 5328697 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoDisconnect, 469, DoDisconnect, currState = 9, sessionid: 6490
+[10-15 10:24:15 5328697 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(56) CIMNetChannelImp::DestroyVConnect,  sessionid: 6491, cntaobao打死你我也不相信. m_numState = 2;
+[10-15 10:24:15 5328697 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(613) CIMLoginBiz::OnNetDisconnect,  OnNetDisconnect
+[10-15 10:24:15 5328697 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6490.
+[10-15 10:24:15 5328697 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6490.
+[10-15 10:24:15 5328697 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6491.
+[10-15 10:24:15 5328697 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6491.
+[10-15 10:24:15 5328697 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(668) CIMLoginBiz::NetReConnect, 
+[10-15 10:24:15 5328697 4408 5348 ERROR]  net::TcpClientRequestDelegate::OnReadIOComplete, 254, -101
+[10-15 10:24:15 5328697 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(124) CIMNetChannelImp::CreateVConnect,  Start tcms. m_numState = 1;
+[10-15 10:24:15 5328697 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(46) CIMNetChannelImp::NotifySend,  connecting, sessionid: 6492, cntaobao打死你我也不相信;
+[10-15 10:24:15 5328697 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 106.11.78.189, port: 443
+[10-15 10:24:15 5328697 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imtribemsgmgr.cpp(47) CIMTribeMsgMgr::SetMsgOfflineFlag, m_bMsgOfflineFlag,flag.. ##2#{ [false][true] }##
+[10-15 10:24:15 5328697 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(47) CIMSingleMsgMgr::SetMsgOfflineFlag, (m_bMsgOfflineFlag,flag). ##2#{ [false][true] }##
+[10-15 10:24:15 5328697 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:24:15 5328697 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:24:15 5328697 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 1, state=0
+[10-15 10:24:15 5328697 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(170) CIMNetChannelImp::OnConnectStatus,  OnConnect state error, State = 0;
+[10-15 10:24:15 5328697 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannel.cpp(111) CIMNetChannel::OnConnectError,  connnect error, state: 0;
+[10-15 10:24:15 5328697 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6492.
+[10-15 10:24:15 5328697 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imnetchannel.cpp(115) CIMNetChannel::OnConnectErrorImp,  connnect error, state: 0;
+[10-15 10:24:15 5328697 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginservice.cpp(51) CIMLoginService::OnConnectErrorImp, state=0
+[10-15 10:24:15 5328697 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(56) CIMNetChannelImp::DestroyVConnect,  sessionid: 6492, cntaobao打死你我也不相信. m_numState = 2;
+[10-15 10:24:15 5328697 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(613) CIMLoginBiz::OnNetDisconnect,  OnNetDisconnect
+[10-15 10:24:15 5328697 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6492.
+[10-15 10:24:15 5328697 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6492.
+[10-15 10:24:17 5330694 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imnetchannel.cpp(100) CIMNetChannel::OnSendTimeout,  data time out, nSeqId: 10036;
+[10-15 10:24:17 5330694 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginservice.cpp(555) CIMLoginService::OnCallbackNetReConnectImp, state: 1
+[10-15 10:24:17 5330694 4408 3824 ERROR] 2.6.10_IMSDK IMPackage::DataUnpack, 31, cmd : 0x1010059, im channel error : 1
+[10-15 10:24:17 5330694 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(747) CIMLoginBiz::OnNetReConnectFail, localcode: 0x5(超时错误):0x100002(服务器解包错误)
+[10-15 10:24:17 5330694 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(668) CIMLoginBiz::NetReConnect, 
+[10-15 10:24:17 5330710 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(124) CIMNetChannelImp::CreateVConnect,  Start tcms. m_numState = 1;
+[10-15 10:24:17 5330710 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(46) CIMNetChannelImp::NotifySend,  connecting, sessionid: 6493, cntaobao打死你我也不相信;
+[10-15 10:24:17 5330710 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.41.82, port: 80
+[10-15 10:24:17 5330710 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:24:17 5330710 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:24:17 5330710 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 1, state=0
+[10-15 10:24:17 5330710 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(170) CIMNetChannelImp::OnConnectStatus,  OnConnect state error, State = 0;
+[10-15 10:24:17 5330710 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannel.cpp(111) CIMNetChannel::OnConnectError,  connnect error, state: 0;
+[10-15 10:24:17 5330710 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6493.
+[10-15 10:24:17 5330710 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imnetchannel.cpp(115) CIMNetChannel::OnConnectErrorImp,  connnect error, state: 0;
+[10-15 10:24:17 5330710 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginservice.cpp(51) CIMLoginService::OnConnectErrorImp, state=0
+[10-15 10:24:17 5330710 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(56) CIMNetChannelImp::DestroyVConnect,  sessionid: 6493, cntaobao打死你我也不相信. m_numState = 2;
+[10-15 10:24:17 5330710 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(613) CIMLoginBiz::OnNetDisconnect,  OnNetDisconnect
+[10-15 10:24:17 5330710 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6493.
+[10-15 10:24:17 5330710 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6493.
+[10-15 10:24:19 5332706 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imnetchannel.cpp(100) CIMNetChannel::OnSendTimeout,  data time out, nSeqId: 10037;
+[10-15 10:24:19 5332706 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginservice.cpp(555) CIMLoginService::OnCallbackNetReConnectImp, state: 1
+[10-15 10:24:19 5332706 4408 3824 ERROR] 2.6.10_IMSDK IMPackage::DataUnpack, 31, cmd : 0x1010059, im channel error : 1
+[10-15 10:24:19 5332706 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(747) CIMLoginBiz::OnNetReConnectFail, localcode: 0x5(超时错误):0x100002(服务器解包错误)
+[10-15 10:24:19 5332706 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(668) CIMLoginBiz::NetReConnect, 
+[10-15 10:24:19 5332706 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(124) CIMNetChannelImp::CreateVConnect,  Start tcms. m_numState = 1;
+[10-15 10:24:19 5332706 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(46) CIMNetChannelImp::NotifySend,  connecting, sessionid: 6494, cntaobao打死你我也不相信;
+[10-15 10:24:19 5332706 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.41.135, port: 443
+[10-15 10:24:19 5332706 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:24:19 5332706 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:24:19 5332706 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 1, state=0
+[10-15 10:24:19 5332706 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(170) CIMNetChannelImp::OnConnectStatus,  OnConnect state error, State = 0;
+[10-15 10:24:19 5332706 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannel.cpp(111) CIMNetChannel::OnConnectError,  connnect error, state: 0;
+[10-15 10:24:19 5332706 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6494.
+[10-15 10:24:19 5332706 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imnetchannel.cpp(115) CIMNetChannel::OnConnectErrorImp,  connnect error, state: 0;
+[10-15 10:24:19 5332706 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginservice.cpp(51) CIMLoginService::OnConnectErrorImp, state=0
+[10-15 10:24:19 5332706 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(56) CIMNetChannelImp::DestroyVConnect,  sessionid: 6494, cntaobao打死你我也不相信. m_numState = 2;
+[10-15 10:24:19 5332706 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(613) CIMLoginBiz::OnNetDisconnect,  OnNetDisconnect
+[10-15 10:24:19 5332706 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6494.
+[10-15 10:24:19 5332706 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6494.
+[10-15 10:24:21 5334703 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imnetchannel.cpp(100) CIMNetChannel::OnSendTimeout,  data time out, nSeqId: 10038;
+[10-15 10:24:21 5334703 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginservice.cpp(555) CIMLoginService::OnCallbackNetReConnectImp, state: 1
+[10-15 10:24:21 5334703 4408 3824 ERROR] 2.6.10_IMSDK IMPackage::DataUnpack, 31, cmd : 0x1010059, im channel error : 1
+[10-15 10:24:21 5334703 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(747) CIMLoginBiz::OnNetReConnectFail, localcode: 0x5(超时错误):0x100002(服务器解包错误)
+[10-15 10:24:21 5334703 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(668) CIMLoginBiz::NetReConnect, 
+[10-15 10:24:21 5334703 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(124) CIMNetChannelImp::CreateVConnect,  Start tcms. m_numState = 1;
+[10-15 10:24:21 5334703 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(46) CIMNetChannelImp::NotifySend,  connecting, sessionid: 6495, cntaobao打死你我也不相信;
+[10-15 10:24:21 5334703 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.47.26, port: 80
+[10-15 10:24:21 5334703 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:24:21 5334703 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:24:21 5334703 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 1, state=0
+[10-15 10:24:21 5334703 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(170) CIMNetChannelImp::OnConnectStatus,  OnConnect state error, State = 0;
+[10-15 10:24:21 5334703 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannel.cpp(111) CIMNetChannel::OnConnectError,  connnect error, state: 0;
+[10-15 10:24:21 5334703 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imnetchannel.cpp(115) CIMNetChannel::OnConnectErrorImp,  connnect error, state: 0;
+[10-15 10:24:21 5334703 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginservice.cpp(51) CIMLoginService::OnConnectErrorImp, state=0
+[10-15 10:24:21 5334703 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(56) CIMNetChannelImp::DestroyVConnect,  sessionid: 6495, cntaobao打死你我也不相信. m_numState = 2;
+[10-15 10:24:21 5334703 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(613) CIMLoginBiz::OnNetDisconnect,  OnNetDisconnect
+[10-15 10:24:21 5334703 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6495.
+[10-15 10:24:21 5334703 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6495.
+[10-15 10:24:21 5334703 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6495.
+[10-15 10:24:23 5336700 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imnetchannel.cpp(100) CIMNetChannel::OnSendTimeout,  data time out, nSeqId: 10039;
+[10-15 10:24:23 5336700 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginservice.cpp(555) CIMLoginService::OnCallbackNetReConnectImp, state: 1
+[10-15 10:24:23 5336700 4408 3824 ERROR] 2.6.10_IMSDK IMPackage::DataUnpack, 31, cmd : 0x1010059, im channel error : 1
+[10-15 10:24:23 5336700 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(747) CIMLoginBiz::OnNetReConnectFail, localcode: 0x5(超时错误):0x100002(服务器解包错误)
+[10-15 10:24:23 5336700 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(668) CIMLoginBiz::NetReConnect, 
+[10-15 10:24:23 5336700 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(124) CIMNetChannelImp::CreateVConnect,  Start tcms. m_numState = 1;
+[10-15 10:24:23 5336700 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(46) CIMNetChannelImp::NotifySend,  connecting, sessionid: 6496, cntaobao打死你我也不相信;
+[10-15 10:24:23 5336700 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 695, Host is empty, curState: 7
+[10-15 10:24:23 5336700 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:24:23 5336700 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 1, state=0
+[10-15 10:24:23 5336700 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(170) CIMNetChannelImp::OnConnectStatus,  OnConnect state error, State = 0;
+[10-15 10:24:23 5336700 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannel.cpp(111) CIMNetChannel::OnConnectError,  connnect error, state: 0;
+[10-15 10:24:23 5336700 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6496.
+[10-15 10:24:23 5336700 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imnetchannel.cpp(115) CIMNetChannel::OnConnectErrorImp,  connnect error, state: 0;
+[10-15 10:24:23 5336700 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginservice.cpp(51) CIMLoginService::OnConnectErrorImp, state=0
+[10-15 10:24:23 5336700 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(56) CIMNetChannelImp::DestroyVConnect,  sessionid: 6496, cntaobao打死你我也不相信. m_numState = 2;
+[10-15 10:24:23 5336700 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(613) CIMLoginBiz::OnNetDisconnect,  OnNetDisconnect
+[10-15 10:24:23 5336700 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6496.
+[10-15 10:24:23 5336700 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6496.
+[10-15 10:24:25 5338697 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imnetchannel.cpp(100) CIMNetChannel::OnSendTimeout,  data time out, nSeqId: 10040;
+[10-15 10:24:25 5338697 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginservice.cpp(555) CIMLoginService::OnCallbackNetReConnectImp, state: 1
+[10-15 10:24:25 5338697 4408 3824 ERROR] 2.6.10_IMSDK IMPackage::DataUnpack, 31, cmd : 0x1010059, im channel error : 1
+[10-15 10:24:25 5338697 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(747) CIMLoginBiz::OnNetReConnectFail, localcode: 0x5(超时错误):0x100002(服务器解包错误)
+[10-15 10:25:10 5383719 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:25:10 5383719 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:25:10 5383719 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:25:10 5383719 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:25:10 5383719 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:25:10 5383719 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:25:10 5383719 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6498
+[10-15 10:25:10 5383719 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6498
+[10-15 10:25:10 5383719 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6498
+[10-15 10:25:10 5383719 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6498.
+[10-15 10:25:10 5383719 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6498.
+[10-15 10:25:45 5418725 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:25:45 5418725 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:25:45 5418725 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:25:45 5418725 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:25:45 5418725 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:25:45 5418725 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:25:45 5418725 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6499
+[10-15 10:25:45 5418725 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6499
+[10-15 10:25:45 5418725 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6499
+[10-15 10:25:45 5418725 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6499.
+[10-15 10:25:45 5418725 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6499.
+[10-15 10:26:41 5474730 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:26:41 5474730 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:26:41 5474730 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:26:41 5474730 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:26:41 5474730 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:26:41 5474730 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:26:41 5474730 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6500
+[10-15 10:26:41 5474730 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6500
+[10-15 10:26:41 5474730 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6500
+[10-15 10:26:41 5474730 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6500.
+[10-15 10:26:41 5474730 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6500.
+[10-15 10:27:02 5495462 4408 5352 ERROR] DCMgr CDCMgr::OnUploadCallback, 198, request error: -105
+[10-15 10:27:30 5523745 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:27:30 5523745 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:27:30 5523745 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:27:30 5523745 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:27:30 5523745 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:27:30 5523745 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:27:30 5523745 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6501
+[10-15 10:27:30 5523745 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6501
+[10-15 10:27:30 5523745 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6501
+[10-15 10:27:30 5523745 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6501.
+[10-15 10:27:30 5523745 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6501.
+[10-15 10:28:20 5573759 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:28:20 5573759 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:28:20 5573759 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:28:20 5573759 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:28:20 5573759 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:28:20 5573759 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:28:20 5573759 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6502
+[10-15 10:28:20 5573759 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6502
+[10-15 10:28:20 5573759 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6502
+[10-15 10:28:20 5573759 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6502.
+[10-15 10:28:20 5573759 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6502.
+[10-15 10:29:00 5613773 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:29:00 5613773 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:29:00 5613773 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:29:00 5613773 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:29:00 5613773 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:29:00 5613773 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:29:00 5613773 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6503
+[10-15 10:29:00 5613773 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6503
+[10-15 10:29:00 5613773 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6503
+[10-15 10:29:00 5613773 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6503.
+[10-15 10:29:00 5613773 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6503.
+[10-15 10:29:46 5659778 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:29:46 5659778 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:29:46 5659778 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:29:46 5659778 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:29:46 5659778 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:29:46 5659778 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:29:46 5659778 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6504
+[10-15 10:29:46 5659778 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6504
+[10-15 10:29:46 5659778 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6504
+[10-15 10:29:46 5659778 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6504.
+[10-15 10:29:46 5659778 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6504.
+[10-15 10:30:02 5675472 4408 5352 ERROR] DCMgr CDCMgr::OnUploadCallback, 198, request error: -105
+[10-15 10:30:42 5715783 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:30:42 5715783 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:30:42 5715783 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:30:42 5715783 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:30:42 5715783 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:30:42 5715783 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:30:42 5715783 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6505
+[10-15 10:30:42 5715783 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6505
+[10-15 10:30:42 5715783 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6505
+[10-15 10:30:42 5715783 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6505.
+[10-15 10:30:42 5715783 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6505.
+[10-15 10:31:39 5772785 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:31:39 5772785 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:31:39 5772785 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:31:39 5772785 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:31:39 5772785 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:31:39 5772785 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:31:39 5772785 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6506
+[10-15 10:31:39 5772785 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6506
+[10-15 10:31:39 5772785 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6506
+[10-15 10:31:39 5772785 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6506.
+[10-15 10:31:39 5772785 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6506.
+[10-15 10:32:32 5825794 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:32:32 5825794 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:32:32 5825794 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:32:32 5825794 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:32:32 5825794 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:32:32 5825794 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:32:32 5825794 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6507
+[10-15 10:32:32 5825794 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6507
+[10-15 10:32:32 5825794 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6507
+[10-15 10:32:32 5825794 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6507.
+[10-15 10:32:32 5825794 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6507.
+[10-15 10:33:02 5855466 4408 5352 ERROR] DCMgr CDCMgr::OnUploadCallback, 198, request error: -105
+[10-15 10:33:07 5860801 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:33:07 5860801 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:33:07 5860801 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:33:07 5860801 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:33:07 5860801 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:33:07 5860801 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:33:07 5860801 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6508
+[10-15 10:33:07 5860801 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6508
+[10-15 10:33:07 5860801 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6508
+[10-15 10:33:07 5860801 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6508.
+[10-15 10:33:07 5860801 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6508.
+[10-15 10:33:50 5903826 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:33:50 5903826 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:33:50 5903826 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:33:50 5903826 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:33:50 5903826 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:33:50 5903826 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:33:50 5903826 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6509
+[10-15 10:33:50 5903826 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6509
+[10-15 10:33:50 5903826 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6509
+[10-15 10:33:50 5903826 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6509.
+[10-15 10:33:50 5903826 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6509.
+[10-15 10:34:49 5962826 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:34:49 5962826 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:34:49 5962826 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:34:49 5962826 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:34:49 5962826 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:34:49 5962826 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:34:49 5962826 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6510
+[10-15 10:34:49 5962826 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6510
+[10-15 10:34:49 5962826 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6510
+[10-15 10:34:49 5962826 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6510.
+[10-15 10:34:49 5962826 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6510.
+[10-15 10:35:28 6001826 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:35:28 6001842 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:35:28 6001842 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:35:28 6001842 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:35:28 6001842 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:35:28 6001842 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:35:28 6001842 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6511
+[10-15 10:35:28 6001842 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6511
+[10-15 10:35:28 6001842 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6511
+[10-15 10:35:28 6001842 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6511.
+[10-15 10:35:28 6001842 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6511.
+[10-15 10:36:02 6035491 4408 5352 ERROR] DCMgr CDCMgr::OnUploadCallback, 198, request error: -105
+[10-15 10:36:02 6035850 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:36:02 6035850 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:36:02 6035850 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:36:02 6035850 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:36:02 6035850 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:36:02 6035850 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:36:02 6035850 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6512
+[10-15 10:36:02 6035850 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6512
+[10-15 10:36:02 6035850 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6512
+[10-15 10:36:02 6035850 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6512.
+[10-15 10:36:02 6035850 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6512.
+[10-15 10:36:03 6036489 4408 5352 ERROR] DCMgr CDCMgr::OnUploadCallback, 198, request error: -105
+[10-15 10:36:57 6090871 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:36:57 6090871 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:36:57 6090871 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:36:57 6090871 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:36:57 6090871 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:36:57 6090871 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:36:57 6090871 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6513
+[10-15 10:36:57 6090871 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6513
+[10-15 10:36:57 6090871 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6513
+[10-15 10:36:57 6090871 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6513.
+[10-15 10:36:57 6090871 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6513.
+[10-15 10:37:35 6128873 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:37:35 6128873 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:37:35 6128873 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:37:35 6128873 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:37:35 6128873 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:37:35 6128873 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:37:35 6128873 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6514
+[10-15 10:37:35 6128873 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6514
+[10-15 10:37:35 6128873 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6514
+[10-15 10:37:35 6128873 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6514.
+[10-15 10:37:35 6128873 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6514.
+[10-15 10:38:16 6169886 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:38:16 6169886 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:38:16 6169886 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:38:16 6169886 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:38:16 6169886 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:38:16 6169886 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:38:16 6169886 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6515
+[10-15 10:38:16 6169886 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6515
+[10-15 10:38:16 6169886 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6515
+[10-15 10:38:16 6169886 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6515.
+[10-15 10:38:16 6169886 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6515.
+[10-15 10:39:02 6215485 4408 5352 ERROR] DCMgr CDCMgr::OnUploadCallback, 198, request error: -105
+[10-15 10:39:03 6216889 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:39:03 6216889 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:39:03 6216889 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:39:03 6216889 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:39:03 6216889 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:39:03 6216889 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:39:03 6216889 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6516
+[10-15 10:39:03 6216889 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6516
+[10-15 10:39:03 6216889 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6516
+[10-15 10:39:03 6216889 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6516.
+[10-15 10:39:03 6216889 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6516.
+[10-15 10:39:37 6250897 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:39:37 6250897 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:39:37 6250897 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:39:37 6250897 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:39:37 6250897 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:39:37 6250897 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:39:37 6250897 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6517
+[10-15 10:39:37 6250897 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6517
+[10-15 10:39:37 6250897 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6517
+[10-15 10:39:37 6250897 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6517.
+[10-15 10:39:37 6250897 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6517.
+[10-15 10:40:03 6276871 4408 3824 ERROR] 2.6.10_IMSDK IMPackage::DataUnpack, 31, cmd : 0x1010101, im channel error : 2
+[10-15 10:40:03 6276871 4408 3824 ERROR] imsdk cntaobao打死你我也不相信, imloginservice.cpp(169) CIMLoginService::OnRspServerTimeCallbackImp, DataUnpack ERROR!! state=0x2
+[10-15 10:40:36 6309897 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:40:36 6309897 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:40:36 6309897 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:40:36 6309897 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:40:36 6309897 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:40:36 6309897 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:40:36 6309897 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6518
+[10-15 10:40:36 6309897 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6518
+[10-15 10:40:36 6309897 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6518
+[10-15 10:40:36 6309897 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6518.
+[10-15 10:40:36 6309897 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6518.
+[10-15 10:41:11 6344919 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:41:11 6344919 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:41:11 6344919 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:41:11 6344919 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:41:11 6344919 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:41:11 6344919 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:41:11 6344919 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6519
+[10-15 10:41:11 6344919 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6519
+[10-15 10:41:11 6344919 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6519
+[10-15 10:41:11 6344919 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6519.
+[10-15 10:41:11 6344919 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6519.
+[10-15 10:41:59 6392920 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:41:59 6392920 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:41:59 6392920 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:41:59 6392920 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:41:59 6392920 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:41:59 6392920 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:41:59 6392920 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6520
+[10-15 10:41:59 6392920 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6520
+[10-15 10:41:59 6392920 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6520
+[10-15 10:41:59 6392920 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6520.
+[10-15 10:41:59 6392920 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6520.
+[10-15 10:42:02 6395494 4408 5352 ERROR] DCMgr CDCMgr::OnUploadCallback, 198, request error: -105
+[10-15 10:42:35 6428926 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:42:35 6428926 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:42:35 6428926 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:42:35 6428926 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:42:35 6428926 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:42:35 6428926 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:42:35 6428926 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6521
+[10-15 10:42:35 6428926 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6521
+[10-15 10:42:35 6428926 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6521
+[10-15 10:42:35 6428926 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6521.
+[10-15 10:42:35 6428926 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6521.
+[10-15 10:43:09 6462934 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:43:09 6462934 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:43:09 6462934 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:43:09 6462934 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:43:09 6462934 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:43:09 6462934 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:43:09 6462934 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6522
+[10-15 10:43:09 6462934 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6522
+[10-15 10:43:09 6462934 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6522
+[10-15 10:43:09 6462934 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6522.
+[10-15 10:43:09 6462934 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6522.
+[10-15 10:43:49 6502948 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:43:49 6502948 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:43:49 6502948 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:43:49 6502948 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:43:49 6502948 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:43:49 6502948 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:43:49 6502948 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6523
+[10-15 10:43:49 6502948 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6523
+[10-15 10:43:49 6502948 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6523
+[10-15 10:43:49 6502948 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6523.
+[10-15 10:43:49 6502948 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6523.
+[10-15 10:44:39 6552962 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:44:39 6552962 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:44:39 6552962 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:44:39 6552962 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:44:39 6552962 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:44:39 6552962 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:44:39 6552962 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6524
+[10-15 10:44:39 6552962 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6524
+[10-15 10:44:39 6552962 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6524
+[10-15 10:44:39 6552962 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6524.
+[10-15 10:44:39 6552962 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6524.
+[10-15 10:45:02 6575520 4408 5352 ERROR] DCMgr CDCMgr::OnUploadCallback, 198, request error: -105
+[10-15 10:45:25 6598967 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:45:25 6598967 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:45:25 6598967 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:45:25 6598967 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:45:25 6598967 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:45:25 6598967 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:45:25 6598967 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6525
+[10-15 10:45:25 6598967 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6525
+[10-15 10:45:25 6598967 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6525
+[10-15 10:45:25 6598967 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6525.
+[10-15 10:45:25 6598967 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6525.
+[10-15 10:46:17 6650977 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:46:17 6650977 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:46:17 6650977 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:46:17 6650977 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:46:17 6650977 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:46:17 6650977 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:46:17 6650977 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6526
+[10-15 10:46:17 6650977 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6526
+[10-15 10:46:17 6650977 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6526
+[10-15 10:46:17 6650977 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6526.
+[10-15 10:46:17 6650977 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6526.
+[10-15 10:47:13 6706982 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:47:13 6706982 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:47:13 6706982 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:47:13 6706982 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:47:13 6706982 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:47:13 6706982 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:47:13 6706982 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6527
+[10-15 10:47:13 6706982 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6527
+[10-15 10:47:13 6706982 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6527
+[10-15 10:47:13 6706982 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6527.
+[10-15 10:47:13 6706982 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6527.
+[10-15 10:47:51 6744984 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:47:51 6744984 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:47:51 6744984 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:47:51 6744984 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:47:51 6744984 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:47:51 6744984 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:47:51 6744984 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6528
+[10-15 10:47:51 6744984 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6528
+[10-15 10:47:51 6744984 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6528
+[10-15 10:47:51 6744984 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6528.
+[10-15 10:47:51 6744984 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6528.
+[10-15 10:48:02 6755514 4408 5352 ERROR] DCMgr CDCMgr::OnUploadCallback, 198, request error: -105
+[10-15 10:48:24 6777993 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:48:24 6777993 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:48:24 6777993 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:48:24 6777993 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:48:24 6777993 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:48:24 6777993 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:48:24 6777993 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6529
+[10-15 10:48:24 6777993 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6529
+[10-15 10:48:24 6777993 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6529
+[10-15 10:48:24 6777993 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6529.
+[10-15 10:48:24 6777993 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6529.
+[10-15 10:49:22 6835995 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:49:22 6835995 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:49:22 6835995 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:49:22 6835995 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:49:22 6835995 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:49:22 6835995 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:49:22 6835995 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6530
+[10-15 10:49:22 6835995 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6530
+[10-15 10:49:22 6835995 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6530
+[10-15 10:49:22 6835995 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6530.
+[10-15 10:49:22 6835995 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6530.
+[10-15 10:49:56 6870003 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:49:56 6870018 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:49:56 6870018 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:49:56 6870018 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:49:56 6870018 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:49:56 6870018 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:49:56 6870018 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6531
+[10-15 10:49:56 6870018 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6531
+[10-15 10:49:56 6870018 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6531
+[10-15 10:49:56 6870018 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6531.
+[10-15 10:49:56 6870018 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6531.
+[10-15 10:50:48 6922029 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:50:48 6922029 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:50:48 6922029 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:50:48 6922029 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:50:48 6922029 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:50:48 6922029 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:50:48 6922029 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6532
+[10-15 10:50:48 6922029 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6532
+[10-15 10:50:48 6922029 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6532
+[10-15 10:50:48 6922029 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6532.
+[10-15 10:50:48 6922029 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6532.
+[10-15 10:51:02 6935508 4408 5352 ERROR] DCMgr CDCMgr::OnUploadCallback, 198, request error: -105
+[10-15 10:51:24 6958034 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:51:24 6958034 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:51:24 6958034 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:51:24 6958034 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:51:24 6958034 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:51:24 6958034 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:51:24 6958034 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6533
+[10-15 10:51:24 6958034 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6533
+[10-15 10:51:24 6958034 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6533
+[10-15 10:51:24 6958034 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6533.
+[10-15 10:51:24 6958034 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6533.
+[10-15 10:52:07 7001044 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:52:07 7001044 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:52:07 7001044 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:52:07 7001044 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:52:07 7001044 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:52:07 7001044 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:52:07 7001044 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6534
+[10-15 10:52:07 7001044 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6534
+[10-15 10:52:07 7001044 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6534
+[10-15 10:52:07 7001044 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6534.
+[10-15 10:52:07 7001044 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6534.
+[10-15 10:53:06 7060059 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:53:06 7060059 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:53:06 7060059 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:53:06 7060059 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:53:06 7060059 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:53:06 7060059 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:53:06 7060059 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6535
+[10-15 10:53:06 7060059 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6535
+[10-15 10:53:06 7060059 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6535
+[10-15 10:53:06 7060059 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6535.
+[10-15 10:53:06 7060059 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6535.
+[10-15 10:54:02 7115517 4408 5352 ERROR] DCMgr CDCMgr::OnUploadCallback, 198, request error: -105
+[10-15 10:54:03 7117062 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:54:03 7117062 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:54:03 7117062 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:54:03 7117062 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:54:03 7117062 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:54:03 7117062 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:54:03 7117062 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6536
+[10-15 10:54:03 7117062 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6536
+[10-15 10:54:03 7117062 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6536
+[10-15 10:54:03 7117062 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6536.
+[10-15 10:54:03 7117062 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6536.
+[10-15 10:54:59 7173066 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 10:54:59 7173066 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 10:54:59 7173066 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 10:54:59 7173066 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 10:54:59 7173066 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 10:54:59 7173066 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 10:54:59 7173066 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6537
+[10-15 10:54:59 7173066 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6537
+[10-15 10:54:59 7173066 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6537
+[10-15 10:54:59 7173066 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6537.
+[10-15 10:54:59 7173066 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6537.
+[10-15 11:23:24 8877767 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 11:23:24 8877876 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 673,  get allot ip fail, res: -105
+[10-15 11:23:24 8877876 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 11:23:24 8877876 4408 5340 ERROR] TCMChannelService CTCMSChannelImpl::OnConnectCallThread, 338, OnConnect error curState = 7, resCode = 11.
+[10-15 11:23:24 8877876 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoDisConnected, 808, 
+[10-15 11:23:24 8877876 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=0
+[10-15 11:23:24 8877876 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::OnConnectStatusTask, 265, currState = 1, state = 0, sessionid: 6538
+[10-15 11:23:24 8877876 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::DoConnError, 442, DoConnError, currState = 8, sessionid: 6538
+[10-15 11:23:24 8877876 4408 5336 ERROR] CUnifiedAuthService CUnifiedAuthService::Close, 500, Close, currState = 8, sessionid: 6538
+[10-15 11:23:24 8877876 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DestroyVConn, 157, DestroyVConn sessionId = 6538.
+[10-15 11:23:24 8877876 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::RemoveListener, 131, RemoveListener curState = 6, sessionId = 6538.
+[10-15 11:23:24 8877938 4408 5352 ERROR] DCMgr CDCMgr::OnUploadCallback, 198, request error: -105
+[10-15 11:23:28 8881324 4408 3824 ERROR] 2.6.10_IMSDK IMPackage::DataUnpack, 31, cmd : 0x101005a, im channel error : 2
+[10-15 11:23:28 8881324 4408 3824 ERROR] imsdk cntaobao打死你我也不相信, imloginservice.cpp(223) CIMLoginService::OnRspRenewalTokenCallbackImp, DataUnpack ERROR!! state=0x2
+[10-15 11:23:28 8881324 4408 3824 ERROR] 2.6.10_IMSDK IMPackage::DataUnpack, 31, cmd : 0x1010101, im channel error : 2
+[10-15 11:23:28 8881324 4408 3824 ERROR] imsdk cntaobao打死你我也不相信, imloginservice.cpp(169) CIMLoginService::OnRspServerTimeCallbackImp, DataUnpack ERROR!! state=0x2
+[10-15 11:23:33 8886425 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthTask, 128, DoAuth, user: 打死你我也不相信
+[10-15 11:23:33 8886643 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoGetAllotIps, 668,  get allot ips : 140.205.47.45:80,106.11.78.181:443,140.205.41.115:80,140.205.41.233:443,140.205.201.52:80
+[10-15 11:23:33 8886643 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnectTCM, 714, Connect server host: 140.205.192.184, port: 80
+[10-15 11:23:33 8886721 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoFastReconnect, 762, DoFastReconnect
+[10-15 11:23:33 8886815 4408 5340 WARNING] TCMChannelService CTCMSChannelImpl::DoConnected, 787, 
+[10-15 11:23:33 8886815 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 2, state=1
+[10-15 11:23:33 8886893 4408 5336 WARNING] CUnifiedAuthService CUnifiedAuthService::DoAuthImpl, 392, currState = 3, sessionid: 6539
+[10-15 11:23:34 8888203 4408 3824 WARNING] imsdk CIMServiceMgr::Init, 67, Function End
+[10-15 11:23:34 8888203 4408 3824 WARNING] imsdk CIMStorageMgr::Init, 86, Function End
+[10-15 11:23:34 8888203 4408 3824 WARNING] imsdk imbizmgr.cpp(72) CIMBizMgr::Init, Biz Init. (imsdk_version). ##1#{ [2.6.10_IMSDK] }##
+[10-15 11:23:34 8888203 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(89) CIMLoginBiz::Login, 
+[10-15 11:23:34 8888203 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(166) CIMLoginBiz::DoServiceLoginImp, 
+[10-15 11:23:34 8888203 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginservice.cpp(269) CIMLoginService::DoLoginTask, 
+[10-15 11:23:34 8888219 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(124) CIMNetChannelImp::CreateVConnect,  Start tcms. m_numState = 1;
+[10-15 11:23:34 8888219 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(43) CIMNetChannelImp::NotifySend,  Cache package, cntaobao打死你我也不相信;
+[10-15 11:23:34 8888219 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(46) CIMNetChannelImp::NotifySend,  connecting, sessionid: 6497, cntaobao打死你我也不相信;
+[10-15 11:23:34 8888219 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(134) CIMNetChannelImp::OnConnectStatus,  cntaobao打死你我也不相信.  m_curState = 1, state=1
+[10-15 11:23:34 8888219 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(157) CIMNetChannelImp::OnConnectStatus,  OnConnect state ok, m_numState = 1;
+[10-15 11:23:34 8888219 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(165) CIMNetChannelImp::OnConnectStatus,  Create VConn sessionid: 6497, m_numState = 1;
+[10-15 11:23:34 8888219 4408 3824 WARNING] imsdk CIMStorageMgr::OnInitCallback, 101,  wait for callback
+[10-15 11:23:34 8888219 4408 3824 WARNING] imsdk CIMStorageMgr::OnInitCallback, 96,  callback all finished!
+[10-15 11:23:34 8888219 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(43) CIMNetChannelImp::NotifySend,  Cache package, cntaobao打死你我也不相信;
+[10-15 11:23:34 8888219 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(46) CIMNetChannelImp::NotifySend,  connecting, sessionid: 6497, cntaobao打死你我也不相信;
+[10-15 11:23:35 8888281 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(188) CIMNetChannelImp::OnVConnectStatus,  cntaobao打死你我也不相信. m_curState = 1, state=1, sessionid: 6497
+[10-15 11:23:35 8888281 4408 5340 WARNING] imsdk cntaobao打死你我也不相信, imnetchannelimp.cpp(205) CIMNetChannelImp::OnVConnectStatus,  OnVConnect state OK, m_curtState = 1;
+[10-15 11:23:35 8888624 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(191) CIMLoginBiz::OnLoginOk, 
+[10-15 11:23:35 8888624 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(271) CIMLoginBiz::DoReLoginOkTask, 
+[10-15 11:23:35 8888624 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginservice.cpp(367) CIMLoginService::OnCallback4LoginImp, UpdateLocalServerTime. time=1508037833500
+[10-15 11:23:35 8888624 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(288) CIMLoginBiz::DoPostReLoginTask,  wait for callback
+[10-15 11:23:35 8888687 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(291) CIMLoginBiz::DoPostReLoginTask,  callback all finished!
+[10-15 11:23:35 8888858 4408 3824 WARNING] imsdk CIMServiceMgr::UserInit, 126, [cntaobao打死你我也不相信]
+[10-15 11:23:35 8888858 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imtribemsgmgr.cpp(47) CIMTribeMsgMgr::SetMsgOfflineFlag, m_bMsgOfflineFlag,flag.. ##2#{ [true][false] }##
+[10-15 11:23:35 8888858 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(47) CIMSingleMsgMgr::SetMsgOfflineFlag, (m_bMsgOfflineFlag,flag). ##2#{ [true][false] }##
+[10-15 11:23:35 8888858 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(164) CIMRecentChatMgr::ReqSvrRecentItems, (result). ##1#{ [0x0:0x0] }##
+[10-15 11:23:35 8888858 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(129) CIMRecentChatService::ReqSvrRecentChat, CImReqGetrctlist. (llLocalVersion,nCount). ##2#{ [0][1000] }##
+[10-15 11:23:36 8889264 4408 5424 WARNING] imsdk cntaobao打死你我也不相信, imrecentchatservice.cpp(154) CIMRecentChatService::OnRspSvrRecentChat, CImRspGetrctlist. (llVersion,sizeItmes). ##2#{ [1508033495077][1] }##
+[10-15 11:23:36 8889264 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(185) CIMRecentChatMgr::RspSvrRecentItems, $$RspSvrRecentItems succeed!! (result). ##1#{ [0x0:0x0] }##
+[10-15 11:23:36 8889264 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(217) CIMRecentChatMgr::RspSvrRecentItems, merge!! strLocalIDs=|cntaobao旭日蓬勃数码专营店|
+[10-15 11:23:36 8889264 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(218) CIMRecentChatMgr::RspSvrRecentItems, merge!! strServerIDs=|cntaobao旭日蓬勃数码专营店|
+[10-15 11:23:36 8889264 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(223) CIMRecentChatMgr::RspSvrRecentItems, update db!! (newsize). ##1#{ [1] }##
+[10-15 11:23:36 8889264 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imofflinemsgdispatch.cpp(62) CImOfflineMsgDispatch::FetchOfflineMsgImp, nTypeFetch=3,nBatchFetch=4096,dwAckCount=0
+[10-15 11:23:36 8889264 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(128) CIMRecentChatMgr::AsyncFetchOfflineMsg, fetch im offline msgs.. ##0#{}##
+[10-15 11:23:36 8889264 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imrecenttribemgr.cpp(230) CIMRecentTribeMgr::OnNotifyShallowLogin, rsult. ##1#{ [0x0:0x0] }##
+[10-15 11:23:36 8889264 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imtribemgr.cpp(1718) CIMTribeMgr::OnShallowLoginCallback, notify recent chat items! (size). ##1#{ [1] }##
+[10-15 11:23:36 8889264 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imtribemsgmgr.cpp(402) CIMTribeMsgMgr::SetMsgNotifySwitchOpened, m_bIsMsgNotifySwitchOpened->bSetNotifyOpened. ##2#{ [true][true] }##
+[10-15 11:23:36 8889264 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(54) CIMRecentChatMgr::DoNtyAllRecentChatEventsImp, CreateChatItems. ##1#{ [CIMRecentChatMgr::RspSvrRecentItems] }##
+[10-15 11:23:36 8889264 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglechatmgr.cpp(154) CIMSingleChatMgr::OnCreateRcntChatItems, onUnreadMsgCountNty! (size). ##1#{ [1] }##
+[10-15 11:23:36 8889264 4408 3824 WARNING] 2.6.10_IMSDK cntaobao打死你我也不相信, imrecentchatmgr.cpp(323) CIMRecentChatMgr::OnSvrRecentSaveDB, SetSvrDataVersion. (newversion). ##1#{ [1508033495077] }##
+[10-15 11:23:57 8910449 4408 5352 ERROR] aliOfflinePkg---CPluginResMgr CPluginResMgr::CheckUpdate, 199, 本地版本已是最新
+[10-15 11:24:11 8925066 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(435) CIMLoginBiz::Logout, do logout task
+[10-15 11:24:11 8925066 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(479) CIMLoginBiz::DoServicePreLogout, 
+[10-15 11:24:11 8925066 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imtribemsgmgr.cpp(47) CIMTribeMsgMgr::SetMsgOfflineFlag, m_bMsgOfflineFlag,flag.. ##2#{ [false][true] }##
+[10-15 11:24:11 8925066 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imtribemsgmgr.cpp(402) CIMTribeMsgMgr::SetMsgNotifySwitchOpened, m_bIsMsgNotifySwitchOpened->bSetNotifyOpened. ##2#{ [true][false] }##
+[10-15 11:24:11 8925066 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imsinglemsgmgr.cpp(47) CIMSingleMsgMgr::SetMsgOfflineFlag, (m_bMsgOfflineFlag,flag). ##2#{ [false][true] }##
+[10-15 11:24:11 8925066 4408 3824 WARNING] imsdk CIMServiceMgr::PreUserUnInit, 138, [cntaobao打死你我也不相信]
+[10-15 11:24:11 8925066 4408 3824 WARNING] imsdk CIMStorageMgr::PreUserUnInit, 147, [cntaobao打死你我也不相信]
+[10-15 11:24:11 8925098 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(503) CIMLoginBiz::DoServiceLogout,  wait for callback. (seqId). ##1#{ [104] }##
+[10-15 11:24:11 8925098 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(503) CIMLoginBiz::DoServiceLogout,  wait for callback. (seqId). ##1#{ [104] }##
+[10-15 11:24:11 8925098 4408 3824 WARNING] imsdk cntaobao打死你我也不相信, imloginbiz.cpp(503) CIMLoginBiz::DoServiceLogout,  wait for callback. (seqId). ##1#{ [104] }##
